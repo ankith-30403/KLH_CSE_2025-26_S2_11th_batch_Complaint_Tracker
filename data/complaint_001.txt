@@ -1,0 +1,15 @@
+Complaint ID: CMP-001
+Registered On: 17-08-2026 09:30:00
+Customer ID: CUST-001
+Customer Name: Ankit Kumar
+Customer Email: ankit@example.com
+Phone Number: 9876543210
+Address: Green Park, Bengaluru
+Complaint Description: A drainage problem is causing wastewater to overflow near my house.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: Under Review
+Remarks: Inspection is scheduled.
+Status History: 17-08-2026 09:30:00 - Submitted

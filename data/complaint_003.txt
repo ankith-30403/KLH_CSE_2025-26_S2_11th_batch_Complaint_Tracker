@@ -1,0 +1,15 @@
+Complaint ID: CMP-003
+Registered On: 17-08-2026 11:00:00
+Customer ID: CUST-003
+Customer Name: Rahul Das
+Customer Email: rahul@example.com
+Phone Number: 9123456789
+Address: MG Road, Bengaluru
+Complaint Description: The streetlight near the bus stop is not working at night.
+Priority: Medium
+Category: Streetlight
+Department: Electrical Department
+Staff: Electrical Support Officer
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 17-08-2026 11:00:00 - Submitted

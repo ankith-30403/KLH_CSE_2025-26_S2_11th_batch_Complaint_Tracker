@@ -1,0 +1,15 @@
+Complaint ID: CMP-002
+Registered On: 17-08-2026 10:15:00
+Customer ID: CUST-002
+Customer Name: Priya Sharma
+Customer Email: priya@example.com
+Phone Number: 9876501234
+Address: Lake View Road, Bengaluru
+Complaint Description: There is a drainage problem beside the school and dirty water is collecting on the road.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: In Progress
+Remarks: Cleaning team assigned.
+Status History: 17-08-2026 10:15:00 - Submitted

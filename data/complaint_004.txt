@@ -1,0 +1,15 @@
+Complaint ID: CMP-004
+Registered On: 17-08-2026 12:45:00
+Customer ID: CUST-004
+Customer Name: Meera Nair
+Customer Email: meera@example.com
+Phone Number: 9988776655
+Address: Indiranagar, Bengaluru
+Complaint Description: Garbage has not been collected from our street for three days.
+Priority: Medium
+Category: Waste Collection
+Department: Waste Management Department
+Staff: Waste Collection Officer
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 17-08-2026 12:45:00 - Submitted
