@@ -1,0 +1,8 @@
+Z-ALGORITHM SEARCH RESULT
+Search text: drainage problem
+----------------------------------------
+complaint_001.txt -> 1 match(es)
+complaint_002.txt -> 1 match(es)
+----------------------------------------
+Files containing this complaint: 2
+Total matches: 2
