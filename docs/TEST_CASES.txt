@@ -1,0 +1,19 @@
+TEST CASES — COMPLAINT TRACKER
+
+1. Search text: drainage problem
+   Expected result: complaint_001.txt and complaint_002.txt are reported.
+   Expected file count: 2
+
+2. Search text: streetlight
+   Expected result: complaint_003.txt is reported.
+   Expected file count: 1
+
+3. Search text: water supply
+   Expected result: no matching files.
+   Expected file count: 0
+
+4. Register a new complaint
+   Expected result: a new complaint_XXX.txt file is created in data/corpus.
+
+5. Update CMP-001 to Resolved
+   Expected result: complaint_001.txt status and remarks change, and a record is appended to results/notifications.txt.
