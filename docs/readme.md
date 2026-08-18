@@ -6,7 +6,7 @@
 - **Academic Year:** 2026–2027
 - **Team:** 11
 - **Section:** 2
-- **Supervisor:** Vinay Kumar Sriperambuduri, Associate Professor, CSE, Hyderabad-500090, Telangana, India[cite: 1]
+- **Supervisor:** Vinay Kumar Sriperambuduri, Associate Professor, CSE, Hyderabad-500090, Telangana, India.
 - **Current Phase:** In-Memory Table Management & Core Operations – Review 2
 
 ---
@@ -25,7 +25,7 @@
 
 The Complaint Tracker is a Java-based application developed to simplify and organize customer complaint management without relying on external database management systems[cite: 1]. In manual workflows, complaints are tracked across fragmented channels like spreadsheets, emails, and paper logs, resulting in missed records, delayed resolution, duplicate entries, and poor accountability.
 
-The system provides structured customer registration, automated complaint classification into categories (Billing, Technical Issue, Product Quality, Delivery, and Customer Service), and automatic routing to designated support staff[cite: 1]. Using custom in-memory tables and indexing, the application supports instant lookups by Customer ID, tracks lifecycle status transitions (*Under Review*, *In Progress*, *Resolved*, *Closed*), and logs remarks chronologically while generating status change notifications
+The system provides structured customer registration, automated complaint classification into categories (Billing, Technical Issue, Product Quality, Delivery, and Customer Service), and automatic routing to designated support staff. Using custom in-memory tables and indexing, the application supports instant lookups by Customer ID, tracks lifecycle status transitions (*Under Review*, *In Progress*, *Resolved*, *Closed*), and logs remarks chronologically while generating status change notifications
 
 ---
 
