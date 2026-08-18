@@ -1,0 +1,15 @@
+Complaint ID: CMP-013
+Registered On: 18-08-2026 09:25:00
+Customer ID: CUST-013
+Customer Name: Suresh Babu
+Customer Email: suresh@example.com
+Phone Number: 9876543222
+Address: Yelahanka, Bengaluru
+Complaint Description: Several streetlights in the residential lane remain switched off at night.
+Priority: Medium
+Category: Street Lighting
+Department: Municipal Electrical Department
+Staff: Electrical Maintenance Officer
+Status: Open
+Remarks: Maintenance request has been registered.
+Status History: 18-08-2026 09:25:00 - Submitted

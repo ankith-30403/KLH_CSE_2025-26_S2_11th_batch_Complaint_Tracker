@@ -1,0 +1,15 @@
+Complaint ID: CMP-014
+Registered On: 18-08-2026 09:50:00
+Customer ID: CUST-014
+Customer Name: Pooja Shah
+Customer Email: pooja@example.com
+Phone Number: 9876543223
+Address: Ameerpet, Hyderabad
+Complaint Description: Household garbage is being left on the roadside after collection.
+Priority: Medium
+Category: Waste Management
+Department: Municipal Sanitation Department
+Staff: Sanitation Supervisor
+Status: Assigned
+Remarks: Collection team has been assigned for verification.
+Status History: 18-08-2026 09:50:00 - Submitted; 18-08-2026 10:10:00 - Assigned

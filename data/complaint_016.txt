@@ -1,0 +1,15 @@
+Complaint ID: CMP-016
+Registered On: 18-08-2026 10:40:00
+Customer ID: CUST-016
+Customer Name: Divya Menon
+Customer Email: divya@example.com
+Phone Number: 9876543225
+Address: Hitec City, Hyderabad
+Complaint Description: Water pressure has been very low in the area since yesterday morning.
+Priority: High
+Category: Water Supply
+Department: Municipal Water Department
+Staff: Water Supply Officer
+Status: Assigned
+Remarks: Water supply team has been informed.
+Status History: 18-08-2026 10:40:00 - Submitted; 18-08-2026 11:00:00 - Assigned

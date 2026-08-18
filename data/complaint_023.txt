@@ -1,0 +1,15 @@
+Complaint ID: CMP-023
+Registered On: 18-08-2026 14:00:00
+Customer ID: CUST-023
+Customer Name: Sanjay Rao
+Customer Email: sanjay@example.com
+Phone Number: 9876543232
+Address: Kengeri, Bengaluru
+Complaint Description: Stray animals are frequently gathering around the local market area.
+Priority: Medium
+Category: Animal Control
+Department: Municipal Animal Control Department
+Staff: Animal Control Officer
+Status: Open
+Remarks: Field inspection request has been created.
+Status History: 18-08-2026 14:00:00 - Submitted

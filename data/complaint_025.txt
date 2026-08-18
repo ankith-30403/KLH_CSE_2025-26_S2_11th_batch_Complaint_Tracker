@@ -1,0 +1,15 @@
+Complaint ID: CMP-025
+Registered On: 18-08-2026 15:00:00
+Customer ID: CUST-025
+Customer Name: Harish Gowda
+Customer Email: harish@example.com
+Phone Number: 9876543234
+Address: Vijayanagar, Bengaluru
+Complaint Description: Several potholes have appeared on the main road after recent rainfall.
+Priority: High
+Category: Road Maintenance
+Department: Municipal Roads Department
+Staff: Road Maintenance Engineer
+Status: Under Review
+Remarks: Road condition assessment is scheduled.
+Status History: 18-08-2026 15:00:00 - Submitted; 18-08-2026 15:20:00 - Under Review

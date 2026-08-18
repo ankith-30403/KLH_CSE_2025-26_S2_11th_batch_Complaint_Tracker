@@ -1,0 +1,15 @@
+Complaint ID: CMP-012
+Registered On: 18-08-2026 09:00:00
+Customer ID: CUST-012
+Customer Name: Neha Kapoor
+Customer Email: neha@example.com
+Phone Number: 9876543221
+Address: Banashankari, Bengaluru
+Complaint Description: The street drainage is blocked and rainwater is accumulating near the residential entrance.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: Under Review
+Remarks: Drainage inspection has been scheduled.
+Status History: 18-08-2026 09:00:00 - Submitted; 18-08-2026 09:20:00 - Under Review

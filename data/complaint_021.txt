@@ -1,0 +1,15 @@
+Complaint ID: CMP-021
+Registered On: 18-08-2026 13:00:00
+Customer ID: CUST-021
+Customer Name: Varun Das
+Customer Email: varun@example.com
+Phone Number: 9876543230
+Address: Electronic City, Bengaluru
+Complaint Description: Road construction debris has been left on the roadside for several days.
+Priority: Medium
+Category: Road Maintenance
+Department: Municipal Roads Department
+Staff: Road Maintenance Engineer
+Status: Assigned
+Remarks: Debris removal has been requested.
+Status History: 18-08-2026 13:00:00 - Submitted; 18-08-2026 13:20:00 - Assigned

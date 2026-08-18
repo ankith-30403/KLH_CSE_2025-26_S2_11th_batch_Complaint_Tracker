@@ -1,0 +1,15 @@
+Complaint ID: CMP-026
+Registered On: 18-08-2026 15:30:00
+Customer ID: CUST-026
+Customer Name: Nisha Thomas
+Customer Email: nisha@example.com
+Phone Number: 9876543235
+Address: Begumpet, Hyderabad
+Complaint Description: Garbage collection has been missed in the residential area for two consecutive days.
+Priority: High
+Category: Waste Management
+Department: Municipal Sanitation Department
+Staff: Sanitation Supervisor
+Status: Assigned
+Remarks: Collection schedule is being verified.
+Status History: 18-08-2026 15:30:00 - Submitted; 18-08-2026 15:50:00 - Assigned

@@ -1,0 +1,15 @@
+Complaint ID: CMP-022
+Registered On: 18-08-2026 13:25:00
+Customer ID: CUST-022
+Customer Name: Ishita Roy
+Customer Email: ishita@example.com
+Phone Number: 9876543231
+Address: Madhapur, Hyderabad
+Complaint Description: Loud music from a nearby commercial establishment is disturbing residents at night.
+Priority: Medium
+Category: Noise Pollution
+Department: Municipal Enforcement Department
+Staff: Enforcement Officer
+Status: Under Review
+Remarks: Complaint has been forwarded for verification.
+Status History: 18-08-2026 13:25:00 - Submitted; 18-08-2026 13:45:00 - Under Review

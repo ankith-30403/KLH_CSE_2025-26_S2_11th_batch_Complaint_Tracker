@@ -1,0 +1,15 @@
+Complaint ID: CMP-018
+Registered On: 18-08-2026 11:30:00
+Customer ID: CUST-018
+Customer Name: Asha Iyer
+Customer Email: asha@example.com
+Phone Number: 9876543227
+Address: BTM Layout, Bengaluru
+Complaint Description: A traffic signal is not functioning correctly during peak hours.
+Priority: High
+Category: Traffic Signal
+Department: Municipal Traffic Department
+Staff: Traffic Signal Engineer
+Status: Assigned
+Remarks: Signal maintenance team has been assigned.
+Status History: 18-08-2026 11:30:00 - Submitted; 18-08-2026 11:50:00 - Assigned

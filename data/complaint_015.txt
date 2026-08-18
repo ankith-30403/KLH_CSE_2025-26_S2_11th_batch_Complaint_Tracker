@@ -1,0 +1,15 @@
+Complaint ID: CMP-015
+Registered On: 18-08-2026 10:15:00
+Customer ID: CUST-015
+Customer Name: Naveen Reddy
+Customer Email: naveen@example.com
+Phone Number: 9876543224
+Address: Kondapur, Hyderabad
+Complaint Description: A damaged footpath is making it difficult for pedestrians to walk safely.
+Priority: Medium
+Category: Road Maintenance
+Department: Municipal Roads Department
+Staff: Road Maintenance Engineer
+Status: Under Review
+Remarks: Site inspection has been requested.
+Status History: 18-08-2026 10:15:00 - Submitted; 18-08-2026 10:35:00 - Under Review

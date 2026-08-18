@@ -1,0 +1,15 @@
+Complaint ID: CMP-020
+Registered On: 18-08-2026 12:25:00
+Customer ID: CUST-020
+Customer Name: Lakshmi Devi
+Customer Email: lakshmi@example.com
+Phone Number: 9876543229
+Address: Malleshwaram, Bengaluru
+Complaint Description: An open manhole is present near the main pedestrian pathway.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: Under Review
+Remarks: Safety team has been requested to inspect the location.
+Status History: 18-08-2026 12:25:00 - Submitted; 18-08-2026 12:45:00 - Under Review

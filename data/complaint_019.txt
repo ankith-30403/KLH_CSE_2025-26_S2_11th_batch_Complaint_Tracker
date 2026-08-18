@@ -1,0 +1,15 @@
+Complaint ID: CMP-019
+Registered On: 18-08-2026 12:00:00
+Customer ID: CUST-019
+Customer Name: Kiran Rao
+Customer Email: kiran@example.com
+Phone Number: 9876543228
+Address: Secunderabad, Hyderabad
+Complaint Description: A broken public bench in the park has not been repaired.
+Priority: Low
+Category: Public Parks
+Department: Municipal Parks Department
+Staff: Parks Maintenance Officer
+Status: Open
+Remarks: Maintenance inspection is pending.
+Status History: 18-08-2026 12:00:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-017
+Registered On: 18-08-2026 11:05:00
+Customer ID: CUST-017
+Customer Name: Manoj Kumar
+Customer Email: manoj@example.com
+Phone Number: 9876543226
+Address: Rajajinagar, Bengaluru
+Complaint Description: A public garbage bin is overflowing and has not been cleared regularly.
+Priority: High
+Category: Waste Management
+Department: Municipal Sanitation Department
+Staff: Sanitation Supervisor
+Status: Under Review
+Remarks: Cleaning team has been notified.
+Status History: 18-08-2026 11:05:00 - Submitted; 18-08-2026 11:25:00 - Under Review

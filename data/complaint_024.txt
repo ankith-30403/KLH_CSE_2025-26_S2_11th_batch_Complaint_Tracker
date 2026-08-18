@@ -1,0 +1,15 @@
+Complaint ID: CMP-024
+Registered On: 18-08-2026 14:25:00
+Customer ID: CUST-024
+Customer Name: Ritu Agarwal
+Customer Email: ritu@example.com
+Phone Number: 9876543233
+Address: Gachibowli, Hyderabad
+Complaint Description: Water from a public pipeline is leaking continuously onto the road.
+Priority: High
+Category: Water Supply
+Department: Municipal Water Department
+Staff: Water Supply Officer
+Status: Assigned
+Remarks: Repair team has been notified.
+Status History: 18-08-2026 14:25:00 - Submitted; 18-08-2026 14:45:00 - Assigned
