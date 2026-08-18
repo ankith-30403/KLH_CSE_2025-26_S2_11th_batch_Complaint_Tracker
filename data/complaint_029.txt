@@ -1,0 +1,15 @@
+Complaint ID: CMP-029
+Registered On: 18-08-2026 17:00:00
+Customer ID: CUST-029
+Customer Name: Rohit Malhotra
+Customer Email: rohit@example.com
+Phone Number: 9876543238
+Address: Whitefield, Bengaluru
+Complaint Description: The pedestrian crossing signal at the junction is not operating.
+Priority: High
+Category: Traffic Signal
+Department: Municipal Traffic Department
+Staff: Traffic Signal Engineer
+Status: Assigned
+Remarks: Signal inspection has been scheduled.
+Status History: 18-08-2026 17:00:00 - Submitted; 18-08-2026 17:20:00 - Assigned

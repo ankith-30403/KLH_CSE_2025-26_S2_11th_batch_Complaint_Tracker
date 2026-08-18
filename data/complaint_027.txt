@@ -1,0 +1,15 @@
+Complaint ID: CMP-027
+Registered On: 18-08-2026 16:00:00
+Customer ID: CUST-027
+Customer Name: Abhishek Jain
+Customer Email: abhishek@example.com
+Phone Number: 9876543236
+Address: Hebbal, Bengaluru
+Complaint Description: The public park lights are not working after sunset.
+Priority: Medium
+Category: Street Lighting
+Department: Municipal Electrical Department
+Staff: Electrical Maintenance Officer
+Status: Open
+Remarks: Electrical inspection has been requested.
+Status History: 18-08-2026 16:00:00 - Submitted

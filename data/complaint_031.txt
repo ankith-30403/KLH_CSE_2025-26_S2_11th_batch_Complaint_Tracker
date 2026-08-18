@@ -1,0 +1,15 @@
+Complaint ID: CMP-031
+Registered On: 18-08-2026 18:00:00
+Customer ID: CUST-031
+Customer Name: Mohan Krishna
+Customer Email: mohan@example.com
+Phone Number: 9876543240
+Address: Rajendranagar, Hyderabad
+Complaint Description: Water supply has stopped completely in the neighborhood since this afternoon.
+Priority: High
+Category: Water Supply
+Department: Municipal Water Department
+Staff: Water Supply Officer
+Status: Under Review
+Remarks: Emergency inspection has been requested.
+Status History: 18-08-2026 18:00:00 - Submitted; 18-08-2026 18:20:00 - Under Review

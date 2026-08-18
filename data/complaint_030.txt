@@ -1,0 +1,15 @@
+Complaint ID: CMP-030
+Registered On: 18-08-2026 17:30:00
+Customer ID: CUST-030
+Customer Name: Deepa Srinivas
+Customer Email: deepa@example.com
+Phone Number: 9876543239
+Address: Jubilee Hills, Hyderabad
+Complaint Description: A damaged children's play area in the public park needs maintenance.
+Priority: Medium
+Category: Public Parks
+Department: Municipal Parks Department
+Staff: Parks Maintenance Officer
+Status: Open
+Remarks: Maintenance team will inspect the equipment.
+Status History: 18-08-2026 17:30:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-028
+Registered On: 18-08-2026 16:25:00
+Customer ID: CUST-028
+Customer Name: Swathi Reddy
+Customer Email: swathi@example.com
+Phone Number: 9876543237
+Address: Manikonda, Hyderabad
+Complaint Description: Rainwater is collecting on the roadside because the stormwater drain is blocked.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: Under Review
+Remarks: Drain cleaning team has been assigned.
+Status History: 18-08-2026 16:25:00 - Submitted; 18-08-2026 16:45:00 - Under Review
