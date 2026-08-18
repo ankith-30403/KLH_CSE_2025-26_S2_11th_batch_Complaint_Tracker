@@ -1,0 +1,15 @@
+Complaint ID: CMP-010
+Registered On: 17-08-2026 16:00:00
+Customer ID: CUST-010
+Customer Name: Ananya Patel
+Customer Email: ananya@example.com
+Phone Number: 9876543219
+Address: Jubilee Hills, Hyderabad
+Complaint Description: Public park benches and play equipment are damaged and require maintenance.
+Priority: Low
+Category: Public Parks
+Department: Municipal Parks Department
+Staff: Parks Maintenance Officer
+Status: Assigned
+Remarks: Maintenance request has been registered.
+Status History: 17-08-2026 16:00:00 - Submitted; 17-08-2026 16:20:00 - Assigned

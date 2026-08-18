@@ -1,0 +1,15 @@
+Complaint ID: CMP-007
+Registered On: 17-08-2026 14:00:00
+Customer ID: CUST-007
+Customer Name: Vikas Singh
+Customer Email: vikas@example.com
+Phone Number: 9876543216
+Address: HSR Layout, Bengaluru
+Complaint Description: Drain covers are damaged and an open drain is creating a hazard for pedestrians.
+Priority: High
+Category: Drainage
+Department: Municipal Sanitation Department
+Staff: Sanitation Officer
+Status: Under Review
+Remarks: Safety inspection is scheduled.
+Status History: 17-08-2026 14:00:00 - Submitted; 17-08-2026 14:20:00 - Under Review

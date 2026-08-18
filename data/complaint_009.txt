@@ -1,0 +1,15 @@
+Complaint ID: CMP-009
+Registered On: 17-08-2026 15:15:00
+Customer ID: CUST-009
+Customer Name: Aditya Kumar
+Customer Email: aditya@example.com
+Phone Number: 9876543218
+Address: Gachibowli, Hyderabad
+Complaint Description: Traffic signal lights at the junction are malfunctioning and causing traffic congestion.
+Priority: High
+Category: Traffic Signal
+Department: Municipal Traffic Department
+Staff: Traffic Signal Engineer
+Status: Under Review
+Remarks: Signal maintenance team has been notified.
+Status History: 17-08-2026 15:15:00 - Submitted; 17-08-2026 15:40:00 - Under Review

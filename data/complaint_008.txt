@@ -1,0 +1,15 @@
+Complaint ID: CMP-008
+Registered On: 17-08-2026 14:40:00
+Customer ID: CUST-008
+Customer Name: Meera Joshi
+Customer Email: meera@example.com
+Phone Number: 9876543217
+Address: Banjara Hills, Hyderabad
+Complaint Description: Loud construction work is continuing late at night in the residential area.
+Priority: Medium
+Category: Noise Pollution
+Department: Municipal Enforcement Department
+Staff: Enforcement Officer
+Status: Assigned
+Remarks: Complaint forwarded for verification.
+Status History: 17-08-2026 14:40:00 - Submitted; 17-08-2026 15:00:00 - Assigned

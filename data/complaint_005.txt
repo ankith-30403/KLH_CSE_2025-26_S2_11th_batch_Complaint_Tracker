@@ -1,0 +1,15 @@
+Complaint ID: CMP-005
+Registered On: 17-08-2026 12:20:00
+Customer ID: CUST-005
+Customer Name: Arjun Rao
+Customer Email: arjun@example.com
+Phone Number: 9876543214
+Address: Madhapur, Hyderabad
+Complaint Description: There is a continuous water leakage from a public pipeline near the apartment entrance.
+Priority: High
+Category: Water Supply
+Department: Municipal Water Department
+Staff: Water Supply Officer
+Status: Under Review
+Remarks: Leakage inspection is scheduled.
+Status History: 17-08-2026 12:20:00 - Submitted; 17-08-2026 12:45:00 - Under Review

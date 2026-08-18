@@ -1,0 +1,15 @@
+Complaint ID: CMP-006
+Registered On: 17-08-2026 13:10:00
+Customer ID: CUST-006
+Customer Name: Kavya Nair
+Customer Email: kavya@example.com
+Phone Number: 9876543215
+Address: Koramangala, Bengaluru
+Complaint Description: Stray dogs are frequently gathering near the residential park and creating a safety concern.
+Priority: Medium
+Category: Animal Control
+Department: Municipal Animal Control Department
+Staff: Animal Control Officer
+Status: Assigned
+Remarks: Field visit has been requested.
+Status History: 17-08-2026 13:10:00 - Submitted; 17-08-2026 13:35:00 - Assigned
