@@ -1,0 +1,15 @@
+Complaint ID: CMP-062
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-062
+Customer Name: Ananya Sharma
+Customer Email: ananyasharma62@example.com
+Phone Number: 9800490978
+Address: House 62, KPHB Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports water supply interruption near KPHB and requests prompt action from the concerned department.
+Priority: Low
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

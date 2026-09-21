@@ -1,0 +1,15 @@
+Complaint ID: CMP-051
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-051
+Customer Name: Rahul Das
+Customer Email: rahuldas51@example.com
+Phone Number: 9800403869
+Address: House 51, Uppal Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports noise pollution near Uppal and requests prompt action from the concerned department.
+Priority: Medium
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-099
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-099
+Customer Name: Varun Nair
+Customer Email: varunnair99@example.com
+Phone Number: 9800783981
+Address: House 99, Gachibowli Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports broken water pipeline near Gachibowli and requests prompt action from the concerned department.
+Priority: Medium
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

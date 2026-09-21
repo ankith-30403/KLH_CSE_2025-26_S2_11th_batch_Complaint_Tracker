@@ -1,0 +1,15 @@
+Complaint ID: CMP-053
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-053
+Customer Name: Suresh Reddy
+Customer Email: sureshreddy53@example.com
+Phone Number: 9800419707
+Address: House 53, Madhapur Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports damaged footpath near Madhapur and requests prompt action from the concerned department.
+Priority: Low
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

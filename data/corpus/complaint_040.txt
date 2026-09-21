@@ -1,0 +1,15 @@
+Complaint ID: CMP-040
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-040
+Customer Name: Lakshmi Verma
+Customer Email: lakshmiverma40@example.com
+Phone Number: 9800316760
+Address: House 40, Miyapur Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports low water pressure near Miyapur and requests prompt action from the concerned department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-043
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-043
+Customer Name: Ravi Reddy
+Customer Email: ravireddy43@example.com
+Phone Number: 9800340517
+Address: House 43, Madhapur Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports unsafe drinking water near Madhapur and requests prompt action from the concerned department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

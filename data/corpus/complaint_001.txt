@@ -1,0 +1,15 @@
+Complaint ID: CMP-001
+Registered On: 21-09-2026 13:08:17
+Customer ID: 23
+Customer Name: ankith
+Customer Email: ankith@123
+Phone Number: 3493982828
+Address: kphb
+Complaint Description: water
+Priority: High
+Category: Not Categorized
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:08:17 - Submitted

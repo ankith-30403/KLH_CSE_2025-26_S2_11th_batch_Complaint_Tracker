@@ -1,0 +1,15 @@
+Complaint ID: CMP-009
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-009
+Customer Name: Kiran Nair
+Customer Email: kirannair9@example.com
+Phone Number: 9800071271
+Address: House 9, Gachibowli Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports electricity outage near Gachibowli and requests prompt action from the concerned department.
+Priority: Medium
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-032
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-032
+Customer Name: Nisha Sharma
+Customer Email: nishasharma32@example.com
+Phone Number: 9800253408
+Address: House 32, KPHB Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports air pollution near KPHB and requests prompt action from the concerned department.
+Priority: Low
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

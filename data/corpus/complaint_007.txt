@@ -1,0 +1,15 @@
+Complaint ID: CMP-007
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-007
+Customer Name: Vikram Singh
+Customer Email: vikramsingh7@example.com
+Phone Number: 9800055433
+Address: House 7, Secunderabad Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports blocked drainage near Secunderabad and requests prompt action from the concerned department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

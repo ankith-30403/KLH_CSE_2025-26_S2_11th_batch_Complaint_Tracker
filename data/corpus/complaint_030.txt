@@ -1,0 +1,15 @@
+Complaint ID: CMP-030
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-030
+Customer Name: Divya Verma
+Customer Email: divyaverma30@example.com
+Phone Number: 9800237570
+Address: House 30, Miyapur Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports public bus delay near Miyapur and requests prompt action from the concerned department.
+Priority: Medium
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

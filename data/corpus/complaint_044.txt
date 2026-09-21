@@ -1,0 +1,15 @@
+Complaint ID: CMP-044
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-044
+Customer Name: Priya Kumar
+Customer Email: priyakumar44@example.com
+Phone Number: 9800348436
+Address: House 44, Kukatpally Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports street light failure near Kukatpally and requests prompt action from the concerned department.
+Priority: Low
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-046
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-046
+Customer Name: Meera Rao
+Customer Email: meerarao46@example.com
+Phone Number: 9800364274
+Address: House 46, Begumpet Main Road, Hyderabad, Telangana
+Complaint Description: Resident reports road potholes near Begumpet and requests prompt action from the concerned department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted
