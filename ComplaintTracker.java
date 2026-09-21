@@ -28,40 +28,22 @@ public class ComplaintTracker {
         Files.createDirectories(complaintDirectory);
         Files.createDirectories(resultsDirectory);
 
-        String userEmail = "";
-        boolean signedIn = false;
         int choice = 0;
 
         System.out.println("===== COMPLAINT TRACKER =====");
+        String userEmail = "Not Provided";
 
-        // Simple sign-in: any correctly formatted email and non-empty password.
-        while (!signedIn) {
-            System.out.print("Enter email: ");
-            userEmail = sc.nextLine().trim();
-
-            System.out.print("Enter password: ");
-            String password = sc.nextLine().trim();
-
-            if (userEmail.contains("@") && !password.isEmpty()) {
-                signedIn = true;
-                System.out.println("Sign in successful. Welcome, " + userEmail + "!");
-            } else {
-                System.out.println("Enter a valid email and a non-empty password.\n");
-            }
-        }
-
-        while (choice != 6) {
+        while (choice != 5) {
             System.out.println("\n===== MENU =====");
-            System.out.println("1. Register a New Complaint");
-            System.out.println("2. Search Complaints Using Z-Algorithm");
-            System.out.println("3. View All Registered Complaints");
-            System.out.println("4. Update Complaint Status and Notify User");
-            System.out.println("5. View Notifications");
-            System.out.println("6. Exit");
+            System.out.println("1. Search Complaints Using Z-Algorithm");
+            System.out.println("2. View All Registered Complaints");
+            System.out.println("3. Update Complaint Status and Notify User");
+            System.out.println("4. View Notifications");
+            System.out.println("5. Exit");
             System.out.print("Choose an option: ");
 
             if (!sc.hasNextInt()) {
-                System.out.println("Please enter a number from 1 to 6.");
+                System.out.println("Please enter a number from 1 to 5.");
                 sc.nextLine();
                 continue;
             }
@@ -71,82 +53,6 @@ public class ComplaintTracker {
 
             switch (choice) {
                 case 1:
-                    System.out.print("Enter Customer ID: ");
-                    String customerId = sc.nextLine().trim();
-
-                    System.out.print("Enter Customer Name: ");
-                    String customerName = sc.nextLine().trim();
-
-                    System.out.print("Enter Customer Email (press Enter to use sign-in email): ");
-                    String customerEmail = sc.nextLine().trim();
-                    if (customerEmail.isEmpty()) {
-                        customerEmail = userEmail;
-                    }
-
-                    System.out.print("Enter Phone Number: ");
-                    String phone = sc.nextLine().trim();
-
-                    System.out.print("Enter Address: ");
-                    String address = sc.nextLine().trim();
-
-                    System.out.print("Enter Complaint Description: ");
-                    String description = sc.nextLine().trim();
-
-                    System.out.println("Choose Priority: 1. Low  2. Medium  3. High");
-                    System.out.print("Enter priority number: ");
-                    String priority = "Medium";
-
-                    if (sc.hasNextInt()) {
-                        int priorityChoice = sc.nextInt();
-                        sc.nextLine();
-                        if (priorityChoice == 1) {
-                            priority = "Low";
-                        } else if (priorityChoice == 3) {
-                            priority = "High";
-                        }
-                    } else {
-                        sc.nextLine();
-                        System.out.println("Invalid input. Medium priority selected.");
-                    }
-
-                    int nextNumber = 1;
-                    Path complaintFile;
-                    do {
-                        complaintFile = complaintDirectory.resolve(
-                                String.format("complaint_%03d.txt", nextNumber));
-                        nextNumber++;
-                    } while (Files.exists(complaintFile));
-
-                    String complaintId = String.format("CMP-%03d", nextNumber - 1);
-                    String registeredTime = LocalDateTime.now().format(
-                            DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss"));
-
-                    String complaintReport =
-                            "Complaint ID: " + complaintId + "\n"
-                            + "Registered On: " + registeredTime + "\n"
-                            + "Customer ID: " + customerId + "\n"
-                            + "Customer Name: " + customerName + "\n"
-                            + "Customer Email: " + customerEmail + "\n"
-                            + "Phone Number: " + phone + "\n"
-                            + "Address: " + address + "\n"
-                            + "Complaint Description: " + description + "\n"
-                            + "Priority: " + priority + "\n"
-                            + "Category: Not Categorized\n"
-                            + "Department: Not Assigned\n"
-                            + "Staff: Not Assigned\n"
-                            + "Status: Submitted\n"
-                            + "Remarks: Complaint registered successfully.\n"
-                            + "Status History: " + registeredTime + " - Submitted\n";
-
-                    Files.writeString(complaintFile, complaintReport,
-                            StandardCharsets.UTF_8, StandardOpenOption.CREATE_NEW);
-
-                    System.out.println("Complaint registered successfully.");
-                    System.out.println("Complaint ID: " + complaintId);
-                    System.out.println("Saved in file: " + complaintFile);
-                    break;
-
-                case 2:
                     System.out.print("Enter complaint text to search: ");
                     String pattern = sc.nextLine().trim().toLowerCase(Locale.ROOT);
 
@@ -229,7 +135,7 @@ public class ComplaintTracker {
                     System.out.println("Search result saved in: " + searchResultsFile);
                     break;
 
-                case 3:
+                case 2:
                     List<Path> registeredFiles;
                     try (Stream<Path> fileStream = Files.list(complaintDirectory)) {
                         registeredFiles = fileStream
@@ -252,7 +158,7 @@ public class ComplaintTracker {
                     }
                     break;
 
-                case 4:
+                case 3:
                     System.out.print("Enter Complaint ID to update (example: CMP-001): ");
                     String updateId = sc.nextLine().trim();
                     Path selectedFile = null;
@@ -337,7 +243,7 @@ public class ComplaintTracker {
                     System.out.println("Complaint file and notification file updated successfully.");
                     break;
 
-                case 5:
+                case 4:
                     if (!Files.exists(notificationsFile)) {
                         System.out.println("No notifications have been generated yet.");
                     } else {
@@ -346,7 +252,7 @@ public class ComplaintTracker {
                     }
                     break;
 
-                case 6:
+                case 5:
                     System.out.println("\nThank you for using Complaint Tracker.");
                     break;
 
