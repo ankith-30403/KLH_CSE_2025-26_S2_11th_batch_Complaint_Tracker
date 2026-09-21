@@ -1,0 +1,15 @@
+Complaint ID: CMP-148
+Registered On: 21-09-2026 13:45:00
+Customer ID: CUS-148
+Customer Name: Aisha Khan
+Customer Email: aisha148@example.com
+Phone Number: 9000000148
+Address: House 148, Sector 5, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:45:00 - Submitted

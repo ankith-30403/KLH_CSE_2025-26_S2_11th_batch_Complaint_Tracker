@@ -1,0 +1,15 @@
+Complaint ID: CMP-136
+Registered On: 21-09-2026 13:33:00
+Customer ID: CUS-136
+Customer Name: Ananya Nair
+Customer Email: ananya136@example.com
+Phone Number: 9000000136
+Address: House 136, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:33:00 - Submitted

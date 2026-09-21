@@ -1,0 +1,15 @@
+Complaint ID: CMP-198
+Registered On: 21-09-2026 14:03:00
+Customer ID: CUS-198
+Customer Name: Vihaan Reddy
+Customer Email: vihaan198@example.com
+Phone Number: 9000000198
+Address: House 198, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:03:00 - Submitted

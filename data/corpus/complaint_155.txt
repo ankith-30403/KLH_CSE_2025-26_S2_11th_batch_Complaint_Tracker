@@ -1,0 +1,15 @@
+Complaint ID: CMP-155
+Registered On: 21-09-2026 13:52:00
+Customer ID: CUS-155
+Customer Name: Harsh Malhotra
+Customer Email: harsh155@example.com
+Phone Number: 9000000155
+Address: House 155, Sector 3, Hyderabad, Telangana
+Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
+Priority: Medium
+Category: Customer Service
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:52:00 - Submitted

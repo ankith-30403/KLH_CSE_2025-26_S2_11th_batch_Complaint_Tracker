@@ -1,0 +1,15 @@
+Complaint ID: CMP-302
+Registered On: 21-09-2026 15:11:00
+Customer ID: CUS-302
+Customer Name: Kabir Gupta
+Customer Email: kabir302@example.com
+Phone Number: 9000000302
+Address: House 302, Sector 6, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 15:11:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-205
+Registered On: 21-09-2026 13:34:00
+Customer ID: CUS-205
+Customer Name: Ishaan Singh
+Customer Email: ishaan205@example.com
+Phone Number: 9000000205
+Address: House 205, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
+Priority: Medium
+Category: Customer Service
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:34:00 - Submitted

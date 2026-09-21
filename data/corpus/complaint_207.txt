@@ -1,0 +1,15 @@
+Complaint ID: CMP-207
+Registered On: 21-09-2026 13:36:00
+Customer ID: CUS-207
+Customer Name: Arjun Iyer
+Customer Email: arjun207@example.com
+Phone Number: 9000000207
+Address: House 207, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:36:00 - Submitted

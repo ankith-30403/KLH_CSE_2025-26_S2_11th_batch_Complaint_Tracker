@@ -1,0 +1,15 @@
+Complaint ID: CMP-240
+Registered On: 21-09-2026 14:09:00
+Customer ID: CUS-240
+Customer Name: Kabir Gupta
+Customer Email: kabir240@example.com
+Phone Number: 9000000240
+Address: House 240, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:09:00 - Submitted

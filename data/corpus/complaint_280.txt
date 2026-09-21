@@ -1,0 +1,15 @@
+Complaint ID: CMP-280
+Registered On: 21-09-2026 14:49:00
+Customer ID: CUS-280
+Customer Name: Tanvi Shah
+Customer Email: tanvi280@example.com
+Phone Number: 9000000280
+Address: House 280, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:49:00 - Submitted

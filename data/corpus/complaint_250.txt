@@ -1,0 +1,15 @@
+Complaint ID: CMP-250
+Registered On: 21-09-2026 14:19:00
+Customer ID: CUS-250
+Customer Name: Rahul Menon
+Customer Email: rahul250@example.com
+Phone Number: 9000000250
+Address: House 250, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:19:00 - Submitted

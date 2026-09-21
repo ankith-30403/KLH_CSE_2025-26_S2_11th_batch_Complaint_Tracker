@@ -1,0 +1,15 @@
+Complaint ID: CMP-156
+Registered On: 21-09-2026 13:53:00
+Customer ID: CUS-156
+Customer Name: Esha Bose
+Customer Email: esha156@example.com
+Phone Number: 9000000156
+Address: House 156, Sector 4, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:53:00 - Submitted

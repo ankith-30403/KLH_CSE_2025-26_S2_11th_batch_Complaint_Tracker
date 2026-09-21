@@ -1,0 +1,15 @@
+Complaint ID: CMP-212
+Registered On: 21-09-2026 13:41:00
+Customer ID: CUS-212
+Customer Name: Nisha Verma
+Customer Email: nisha212@example.com
+Phone Number: 9000000212
+Address: House 212, Sector 6, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:41:00 - Submitted

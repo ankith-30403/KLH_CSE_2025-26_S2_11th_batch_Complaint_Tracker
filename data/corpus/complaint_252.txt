@@ -1,0 +1,15 @@
+Complaint ID: CMP-252
+Registered On: 21-09-2026 14:21:00
+Customer ID: CUS-252
+Customer Name: Dev Kapoor
+Customer Email: dev252@example.com
+Phone Number: 9000000252
+Address: House 252, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:21:00 - Submitted

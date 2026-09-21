@@ -1,0 +1,15 @@
+Complaint ID: CMP-231
+Registered On: 21-09-2026 14:00:00
+Customer ID: CUS-231
+Customer Name: Karan Mehta
+Customer Email: karan231@example.com
+Phone Number: 9000000231
+Address: House 231, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:00:00 - Submitted

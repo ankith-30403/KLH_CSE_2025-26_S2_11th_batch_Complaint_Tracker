@@ -1,0 +1,15 @@
+Complaint ID: CMP-177
+Registered On: 21-09-2026 13:42:00
+Customer ID: CUS-177
+Customer Name: Aditya Sen
+Customer Email: aditya177@example.com
+Phone Number: 9000000177
+Address: House 177, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:42:00 - Submitted

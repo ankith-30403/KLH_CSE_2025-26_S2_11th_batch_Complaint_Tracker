@@ -1,0 +1,27 @@
+Z-ALGORITHM SEARCH RESULT
+Search text: water
+----------------------------------------
+complaint_001.txt -> 1 match(es)
+complaint_002.txt -> 1 match(es)
+complaint_003.txt -> 1 match(es)
+complaint_019.txt -> 1 match(es)
+complaint_020.txt -> 1 match(es)
+complaint_022.txt -> 1 match(es)
+complaint_023.txt -> 1 match(es)
+complaint_039.txt -> 1 match(es)
+complaint_040.txt -> 1 match(es)
+complaint_042.txt -> 1 match(es)
+complaint_043.txt -> 1 match(es)
+complaint_059.txt -> 1 match(es)
+complaint_060.txt -> 1 match(es)
+complaint_062.txt -> 1 match(es)
+complaint_063.txt -> 1 match(es)
+complaint_079.txt -> 1 match(es)
+complaint_080.txt -> 1 match(es)
+complaint_082.txt -> 1 match(es)
+complaint_083.txt -> 1 match(es)
+complaint_099.txt -> 1 match(es)
+complaint_100.txt -> 1 match(es)
+----------------------------------------
+Files containing this complaint: 21
+Total matches: 21

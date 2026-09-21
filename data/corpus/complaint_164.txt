@@ -1,0 +1,15 @@
+Complaint ID: CMP-164
+Registered On: 21-09-2026 14:01:00
+Customer ID: CUS-164
+Customer Name: Aarav Sharma
+Customer Email: aarav164@example.com
+Phone Number: 9000000164
+Address: House 164, Sector 3, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:01:00 - Submitted

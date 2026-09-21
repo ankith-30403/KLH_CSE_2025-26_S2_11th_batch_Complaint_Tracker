@@ -1,0 +1,15 @@
+Complaint ID: CMP-146
+Registered On: 21-09-2026 13:43:00
+Customer ID: CUS-146
+Customer Name: Kavya Das
+Customer Email: kavya146@example.com
+Phone Number: 9000000146
+Address: House 146, Sector 3, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:43:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-243
+Registered On: 21-09-2026 14:12:00
+Customer ID: CUS-243
+Customer Name: Nisha Verma
+Customer Email: nisha243@example.com
+Phone Number: 9000000243
+Address: House 243, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:12:00 - Submitted

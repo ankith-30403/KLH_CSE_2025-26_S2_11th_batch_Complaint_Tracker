@@ -1,0 +1,15 @@
+Complaint ID: CMP-298
+Registered On: 21-09-2026 15:07:00
+Customer ID: CUS-298
+Customer Name: Ishaan Singh
+Customer Email: ishaan298@example.com
+Phone Number: 9000000298
+Address: House 298, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 15:07:00 - Submitted

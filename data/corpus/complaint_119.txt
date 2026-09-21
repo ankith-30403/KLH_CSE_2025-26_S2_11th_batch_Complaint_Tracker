@@ -1,0 +1,15 @@
+Complaint ID: CMP-119
+Registered On: 21-09-2026 13:47:00
+Customer ID: CUS-119
+Customer Name: Tanvi Shah
+Customer Email: tanvi119@example.com
+Phone Number: 9000000119
+Address: House 119, Sector 3, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:47:00 - Submitted

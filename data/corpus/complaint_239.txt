@@ -1,0 +1,15 @@
+Complaint ID: CMP-239
+Registered On: 21-09-2026 14:08:00
+Customer ID: CUS-239
+Customer Name: Meera Rao
+Customer Email: meera239@example.com
+Phone Number: 9000000239
+Address: House 239, Sector 6, Hyderabad, Telangana
+Complaint Description: Customer reports a defective product that stopped working within a week of purchase.
+Priority: High
+Category: Product Quality
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:08:00 - Submitted

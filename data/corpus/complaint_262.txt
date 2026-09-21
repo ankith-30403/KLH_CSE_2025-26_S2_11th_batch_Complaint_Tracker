@@ -1,0 +1,15 @@
+Complaint ID: CMP-262
+Registered On: 21-09-2026 14:31:00
+Customer ID: CUS-262
+Customer Name: Karan Mehta
+Customer Email: karan262@example.com
+Phone Number: 9000000262
+Address: House 262, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:31:00 - Submitted

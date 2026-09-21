@@ -1,0 +1,15 @@
+Complaint ID: CMP-150
+Registered On: 21-09-2026 13:47:00
+Customer ID: CUS-150
+Customer Name: Tanvi Shah
+Customer Email: tanvi150@example.com
+Phone Number: 9000000150
+Address: House 150, Sector 7, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:47:00 - Submitted

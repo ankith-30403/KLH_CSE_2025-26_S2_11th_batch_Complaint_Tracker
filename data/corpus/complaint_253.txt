@@ -1,0 +1,15 @@
+Complaint ID: CMP-253
+Registered On: 21-09-2026 14:22:00
+Customer ID: CUS-253
+Customer Name: Sneha Pillai
+Customer Email: sneha253@example.com
+Phone Number: 9000000253
+Address: House 253, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
+Priority: Medium
+Category: Customer Service
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:22:00 - Submitted

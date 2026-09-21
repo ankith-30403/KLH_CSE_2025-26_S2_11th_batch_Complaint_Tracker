@@ -1,0 +1,15 @@
+Complaint ID: CMP-276
+Registered On: 21-09-2026 14:45:00
+Customer ID: CUS-276
+Customer Name: Kavya Das
+Customer Email: kavya276@example.com
+Phone Number: 9000000276
+Address: House 276, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:45:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-134
+Registered On: 21-09-2026 13:31:00
+Customer ID: CUS-134
+Customer Name: Diya Patel
+Customer Email: diya134@example.com
+Phone Number: 9000000134
+Address: House 134, Sector 9, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:31:00 - Submitted

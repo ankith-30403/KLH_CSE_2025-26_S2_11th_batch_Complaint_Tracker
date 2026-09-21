@@ -1,0 +1,15 @@
+Complaint ID: CMP-254
+Registered On: 21-09-2026 14:23:00
+Customer ID: CUS-254
+Customer Name: Harsh Malhotra
+Customer Email: harsh254@example.com
+Phone Number: 9000000254
+Address: House 254, Sector 3, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:23:00 - Submitted

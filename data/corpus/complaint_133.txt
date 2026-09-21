@@ -1,0 +1,15 @@
+Complaint ID: CMP-133
+Registered On: 21-09-2026 13:30:00
+Customer ID: CUS-133
+Customer Name: Aarav Sharma
+Customer Email: aarav133@example.com
+Phone Number: 9000000133
+Address: House 133, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:30:00 - Submitted

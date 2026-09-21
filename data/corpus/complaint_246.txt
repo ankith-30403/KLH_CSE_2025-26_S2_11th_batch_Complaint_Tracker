@@ -1,0 +1,15 @@
+Complaint ID: CMP-246
+Registered On: 21-09-2026 14:15:00
+Customer ID: CUS-246
+Customer Name: Ritvik Mishra
+Customer Email: ritvik246@example.com
+Phone Number: 9000000246
+Address: House 246, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:15:00 - Submitted

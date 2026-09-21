@@ -1,0 +1,15 @@
+Complaint ID: CMP-145
+Registered On: 21-09-2026 13:42:00
+Customer ID: CUS-145
+Customer Name: Aditya Sen
+Customer Email: aditya145@example.com
+Phone Number: 9000000145
+Address: House 145, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:42:00 - Submitted

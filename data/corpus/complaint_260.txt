@@ -1,0 +1,15 @@
+Complaint ID: CMP-260
+Registered On: 21-09-2026 14:29:00
+Customer ID: CUS-260
+Customer Name: Nitin Agarwal
+Customer Email: nitin260@example.com
+Phone Number: 9000000260
+Address: House 260, Sector 9, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:29:00 - Submitted

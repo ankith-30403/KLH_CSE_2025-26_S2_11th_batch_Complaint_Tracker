@@ -1,0 +1,15 @@
+Complaint ID: CMP-120
+Registered On: 21-09-2026 13:48:00
+Customer ID: CUS-120
+Customer Name: Rahul Menon
+Customer Email: rahul120@example.com
+Phone Number: 9000000120
+Address: House 120, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:48:00 - Submitted

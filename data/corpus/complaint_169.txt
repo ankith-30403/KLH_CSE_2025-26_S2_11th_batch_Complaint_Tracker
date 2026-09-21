@@ -1,0 +1,15 @@
+Complaint ID: CMP-169
+Registered On: 21-09-2026 13:34:00
+Customer ID: CUS-169
+Customer Name: Ishaan Singh
+Customer Email: ishaan169@example.com
+Phone Number: 9000000169
+Address: House 169, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
+Priority: Medium
+Category: Customer Service
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:34:00 - Submitted

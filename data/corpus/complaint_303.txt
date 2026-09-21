@@ -1,0 +1,15 @@
+Complaint ID: CMP-303
+Registered On: 21-09-2026 15:12:00
+Customer ID: CUS-303
+Customer Name: Pooja Joshi
+Customer Email: pooja303@example.com
+Phone Number: 9000000303
+Address: House 303, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 15:12:00 - Submitted

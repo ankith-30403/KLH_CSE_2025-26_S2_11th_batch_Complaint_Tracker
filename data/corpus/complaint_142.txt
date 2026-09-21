@@ -1,0 +1,15 @@
+Complaint ID: CMP-142
+Registered On: 21-09-2026 13:39:00
+Customer ID: CUS-142
+Customer Name: Pooja Joshi
+Customer Email: pooja142@example.com
+Phone Number: 9000000142
+Address: House 142, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:39:00 - Submitted

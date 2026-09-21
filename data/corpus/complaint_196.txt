@@ -1,0 +1,15 @@
+Complaint ID: CMP-196
+Registered On: 21-09-2026 14:01:00
+Customer ID: CUS-196
+Customer Name: Aarav Sharma
+Customer Email: aarav196@example.com
+Phone Number: 9000000196
+Address: House 196, Sector 8, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:01:00 - Submitted

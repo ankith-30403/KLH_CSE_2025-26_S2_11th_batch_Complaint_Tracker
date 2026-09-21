@@ -1,0 +1,15 @@
+Complaint ID: CMP-206
+Registered On: 21-09-2026 13:35:00
+Customer ID: CUS-206
+Customer Name: Saanvi Kumar
+Customer Email: saanvi206@example.com
+Phone Number: 9000000206
+Address: House 206, Sector 9, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:35:00 - Submitted

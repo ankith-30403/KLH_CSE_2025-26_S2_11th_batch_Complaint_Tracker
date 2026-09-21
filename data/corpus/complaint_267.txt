@@ -1,0 +1,15 @@
+Complaint ID: CMP-267
+Registered On: 21-09-2026 14:36:00
+Customer ID: CUS-267
+Customer Name: Ishaan Singh
+Customer Email: ishaan267@example.com
+Phone Number: 9000000267
+Address: House 267, Sector 7, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:36:00 - Submitted

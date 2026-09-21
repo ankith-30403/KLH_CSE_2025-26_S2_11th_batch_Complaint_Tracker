@@ -1,0 +1,15 @@
+Complaint ID: CMP-244
+Registered On: 21-09-2026 14:13:00
+Customer ID: CUS-244
+Customer Name: Aditya Sen
+Customer Email: aditya244@example.com
+Phone Number: 9000000244
+Address: House 244, Sector 2, Hyderabad, Telangana
+Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
+Priority: Medium
+Category: Technical Issue
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:13:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-126
+Registered On: 21-09-2026 13:54:00
+Customer ID: CUS-126
+Customer Name: Omkar Kulkarni
+Customer Email: omkar126@example.com
+Phone Number: 9000000126
+Address: House 126, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:54:00 - Submitted

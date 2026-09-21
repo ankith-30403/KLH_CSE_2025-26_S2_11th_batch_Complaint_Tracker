@@ -1,0 +1,15 @@
+Complaint ID: CMP-300
+Registered On: 21-09-2026 15:09:00
+Customer ID: CUS-300
+Customer Name: Arjun Iyer
+Customer Email: arjun300@example.com
+Phone Number: 9000000300
+Address: House 300, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 15:09:00 - Submitted

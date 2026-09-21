@@ -1,0 +1,15 @@
+Complaint ID: CMP-128
+Registered On: 21-09-2026 13:56:00
+Customer ID: CUS-128
+Customer Name: Krishna Banerjee
+Customer Email: krishna128@example.com
+Phone Number: 9000000128
+Address: House 128, Sector 3, Hyderabad, Telangana
+Complaint Description: Customer reports a defective product that stopped working within a week of purchase.
+Priority: High
+Category: Product Quality
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:56:00 - Submitted

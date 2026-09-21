@@ -1,0 +1,15 @@
+Complaint ID: CMP-211
+Registered On: 21-09-2026 13:40:00
+Customer ID: CUS-211
+Customer Name: Yash Khanna
+Customer Email: yash211@example.com
+Phone Number: 9000000211
+Address: House 211, Sector 5, Hyderabad, Telangana
+Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
+Priority: Medium
+Category: Customer Service
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:40:00 - Submitted

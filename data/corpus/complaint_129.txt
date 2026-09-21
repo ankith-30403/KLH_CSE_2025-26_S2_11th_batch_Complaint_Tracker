@@ -1,0 +1,15 @@
+Complaint ID: CMP-129
+Registered On: 21-09-2026 13:57:00
+Customer ID: CUS-129
+Customer Name: Anvi Sethi
+Customer Email: anvi129@example.com
+Phone Number: 9000000129
+Address: House 129, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:57:00 - Submitted

@@ -1,0 +1,15 @@
+Complaint ID: CMP-131
+Registered On: 21-09-2026 13:59:00
+Customer ID: CUS-131
+Customer Name: Riya Thomas
+Customer Email: riya131@example.com
+Phone Number: 9000000131
+Address: House 131, Sector 6, Hyderabad, Telangana
+Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
+Priority: High
+Category: Civic Services
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:59:00 - Submitted

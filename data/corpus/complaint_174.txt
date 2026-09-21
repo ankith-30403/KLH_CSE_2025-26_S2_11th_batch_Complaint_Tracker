@@ -1,0 +1,15 @@
+Complaint ID: CMP-174
+Registered On: 21-09-2026 13:39:00
+Customer ID: CUS-174
+Customer Name: Pooja Joshi
+Customer Email: pooja174@example.com
+Phone Number: 9000000174
+Address: House 174, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
+Priority: Low
+Category: Delivery
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 13:39:00 - Submitted

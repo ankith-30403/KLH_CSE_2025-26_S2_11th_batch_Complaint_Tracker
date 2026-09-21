@@ -1,0 +1,15 @@
+Complaint ID: CMP-291
+Registered On: 21-09-2026 15:00:00
+Customer ID: CUS-291
+Customer Name: Nitin Agarwal
+Customer Email: nitin291@example.com
+Phone Number: 9000000291
+Address: House 291, Sector 4, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 15:00:00 - Submitted

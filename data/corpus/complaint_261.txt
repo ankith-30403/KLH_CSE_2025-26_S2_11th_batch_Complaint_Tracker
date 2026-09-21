@@ -1,0 +1,15 @@
+Complaint ID: CMP-261
+Registered On: 21-09-2026 14:30:00
+Customer ID: CUS-261
+Customer Name: Riya Thomas
+Customer Email: riya261@example.com
+Phone Number: 9000000261
+Address: House 261, Sector 1, Hyderabad, Telangana
+Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
+Priority: Low
+Category: Billing
+Department: Not Assigned
+Staff: Not Assigned
+Status: Submitted
+Remarks: Complaint registered successfully.
+Status History: 21-09-2026 14:30:00 - Submitted
