@@ -1,0 +1,15 @@
+Complaint ID: CMP-376
+Registered On: 01-10-2026 07:45:00
+Customer ID: CUS-376
+Customer Name: Farhan
+Customer Email: farhan.z@gmail.com
+Phone Number: 9876543168
+Address: Miyapur
+Complaint Description: electric pole fell on the road after heavy rain and traffic stopped
+Priority: High
+Category: Electricity
+Department: Emergency Electric Service
+Staff: Anvi Rao
+Status: Open
+Remarks: ERT and traffic team are on the way to clear the road.
+Status History: 01-10-2026 07:45:00 - Open

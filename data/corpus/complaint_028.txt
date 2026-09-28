@@ -8,8 +8,8 @@ Address: House 28, Banjara Hills Main Road, Hyderabad, Telangana
 Complaint Description: Resident reports sewage overflow near Banjara Hills and requests prompt action from the concerned department.
 Priority: High
 Category: Civic Services
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:30:00 - Submitted
+Department: Water Utilities
+Staff: Ravi Kumar
+Status: Waiting for Superior Approval
+Remarks: Complaint is waiting for superior approval before further action.
+Status History: 23-09-2026 10:00:00 - Waiting for Superior Approval

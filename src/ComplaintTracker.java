@@ -4,8 +4,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -23,7 +21,6 @@ public class ComplaintTracker {
         Path complaintDirectory = Paths.get("data", "corpus");
         Path resultsDirectory = Paths.get("results");
         Path searchResultsFile = resultsDirectory.resolve("search_results.txt");
-        Path notificationsFile = resultsDirectory.resolve("notifications.txt");
 
         Files.createDirectories(complaintDirectory);
         Files.createDirectories(resultsDirectory);
@@ -31,14 +28,13 @@ public class ComplaintTracker {
         int choice = 0;
 
         System.out.println("===== COMPLAINT TRACKER =====");
-        String userEmail = "Not Provided";
 
         while (choice != 5) {
             System.out.println("\n===== MENU =====");
             System.out.println("1. Search Complaints Using Z-Algorithm");
             System.out.println("2. View All Registered Complaints");
-            System.out.println("3. Update Complaint Status and Notify User");
-            System.out.println("4. View Notifications");
+            System.out.println("3. View Updated Status of a Complaint");
+            System.out.println("4. View Address");
             System.out.println("5. Exit");
             System.out.print("Choose an option: ");
 
@@ -159,97 +155,36 @@ public class ComplaintTracker {
                     break;
 
                 case 3:
-                    System.out.print("Enter Complaint ID to update (example: CMP-001): ");
-                    String updateId = sc.nextLine().trim();
-                    Path selectedFile = null;
-                    String selectedText = "";
+                    System.out.print("Enter Complaint ID or Customer ID (example: 23, CMP-023, or CUS-023): ");
+                    String statusId = sc.nextLine().trim();
+                    Path statusFile = findComplaintFile(complaintDirectory, statusId);
 
-                    try (Stream<Path> fileStream = Files.list(complaintDirectory)) {
-                        List<Path> files = fileStream
-                                .filter(Files::isRegularFile)
-                                .filter(path -> path.toString().endsWith(".txt"))
-                                .collect(Collectors.toList());
-
-                        for (Path file : files) {
-                            String fileText = Files.readString(file, StandardCharsets.UTF_8);
-                            if (fileText.contains("Complaint ID: " + updateId)) {
-                                selectedFile = file;
-                                selectedText = fileText;
-                                break;
-                            }
-                        }
-                    }
-
-                    if (selectedFile == null) {
+                    if (statusFile == null) {
                         System.out.println("Complaint ID not found.");
                         break;
                     }
 
-                    System.out.println("Choose updated status:");
-                    System.out.println("1. Under Review");
-                    System.out.println("2. In Progress");
-                    System.out.println("3. Resolved");
-                    System.out.println("4. Closed");
-                    System.out.print("Enter status number: ");
-
-                    if (!sc.hasNextInt()) {
-                        System.out.println("Invalid status input.");
-                        sc.nextLine();
-                        break;
-                    }
-
-                    int statusChoice = sc.nextInt();
-                    sc.nextLine();
-                    String newStatus = "";
-
-                    if (statusChoice == 1) {
-                        newStatus = "Under Review";
-                    } else if (statusChoice == 2) {
-                        newStatus = "In Progress";
-                    } else if (statusChoice == 3) {
-                        newStatus = "Resolved";
-                    } else if (statusChoice == 4) {
-                        newStatus = "Closed";
-                    } else {
-                        System.out.println("Invalid status number.");
-                        break;
-                    }
-
-                    System.out.print("Enter update remarks: ");
-                    String remarks = sc.nextLine().trim();
-                    String updateTime = LocalDateTime.now().format(
-                            DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss"));
-
-                    String updatedText = selectedText
-                            .replaceFirst("(?m)^Status:.*$", "Status: " + newStatus)
-                            .replaceFirst("(?m)^Remarks:.*$", "Remarks: " + remarks)
-                            + "Status History: " + updateTime + " - " + newStatus
-                            + ". Remarks: " + remarks + "\n";
-
-                    Files.writeString(selectedFile, updatedText, StandardCharsets.UTF_8,
-                            StandardOpenOption.TRUNCATE_EXISTING);
-
-                    String notification = updateTime
-                            + " | To: " + userEmail
-                            + " | Complaint " + updateId
-                            + " updated to: " + newStatus
-                            + " | Remarks: " + remarks + "\n";
-
-                    Files.writeString(notificationsFile, notification, StandardCharsets.UTF_8,
-                            StandardOpenOption.CREATE, StandardOpenOption.APPEND);
-
-                    System.out.println("\n===== USER NOTIFICATION =====");
-                    System.out.println(notification);
-                    System.out.println("Complaint file and notification file updated successfully.");
+                    String statusText = Files.readString(statusFile, StandardCharsets.UTF_8);
+                    System.out.println("\n===== COMPLAINT STATUS =====");
+                    System.out.println("Complaint ID: " + getFieldValue(statusText, "Complaint ID"));
+                    System.out.println("Status: " + getFieldValue(statusText, "Status"));
+                    System.out.println("Remarks: " + getFieldValue(statusText, "Remarks"));
                     break;
 
                 case 4:
-                    if (!Files.exists(notificationsFile)) {
-                        System.out.println("No notifications have been generated yet.");
-                    } else {
-                        System.out.println("\n===== NOTIFICATIONS =====");
-                        System.out.println(Files.readString(notificationsFile, StandardCharsets.UTF_8));
+                    System.out.print("Enter Complaint ID or Customer ID (example: 23, CMP-023, or CUS-023): ");
+                    String addressId = sc.nextLine().trim();
+                    Path addressFile = findComplaintFile(complaintDirectory, addressId);
+
+                    if (addressFile == null) {
+                        System.out.println("Complaint ID not found.");
+                        break;
                     }
+
+                    String addressText = Files.readString(addressFile, StandardCharsets.UTF_8);
+                    System.out.println("\n===== COMPLAINT ADDRESS =====");
+                    System.out.println("Complaint ID: " + getFieldValue(addressText, "Complaint ID"));
+                    System.out.println("Address: " + getFieldValue(addressText, "Address"));
                     break;
 
                 case 5:
@@ -257,10 +192,54 @@ public class ComplaintTracker {
                     break;
 
                 default:
-                    System.out.println("Invalid option. Choose a number from 1 to 6.");
+                    System.out.println("Invalid option. Choose a number from 1 to 5.");
             }
         }
 
         sc.close();
+    }
+
+    private static String getFieldValue(String text, String fieldName) {
+        String prefix = fieldName + ": ";
+        for (String line : text.split("\\R")) {
+            if (line.startsWith(prefix)) {
+                return line.substring(prefix.length());
+            }
+        }
+        return "Not Available";
+    }
+
+    private static Path findComplaintFile(Path complaintDirectory, String complaintId)
+            throws IOException {
+        String numericId = complaintId.replaceAll("(?i)^(CMP-|CUS-)", "");
+        try {
+            numericId = String.format("%03d", Integer.parseInt(numericId));
+        } catch (NumberFormatException exception) {
+            return null;
+        }
+        String complaintIdValue = "CMP-" + numericId;
+        String customerIdValue = "CUS-" + numericId;
+
+        try (Stream<Path> fileStream = Files.list(complaintDirectory)) {
+            return fileStream
+                    .filter(Files::isRegularFile)
+                    .filter(path -> path.toString().endsWith(".txt"))
+                    .filter(path -> {
+                        try {
+                            String text = Files.readString(path, StandardCharsets.UTF_8);
+                            for (String line : text.split("\\R")) {
+                                if (line.equals("Complaint ID: " + complaintIdValue)
+                                        || line.equals("Customer ID: " + customerIdValue)) {
+                                    return true;
+                                }
+                            }
+                            return false;
+                        } catch (IOException exception) {
+                            return false;
+                        }
+                    })
+                    .findFirst()
+                    .orElse(null);
+        }
     }
 }

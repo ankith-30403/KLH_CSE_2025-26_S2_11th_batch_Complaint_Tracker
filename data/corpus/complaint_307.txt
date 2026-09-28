@@ -1,0 +1,15 @@
+Complaint ID: CMP-307
+Registered On: 23-09-2026 10:10:00
+Customer ID: CUS-307
+Customer Name: Ananya Patel
+Customer Email: ananyapatel307@example.com
+Phone Number: 9000000307
+Address: House 307, Madhapur, Hyderabad, Telangana
+Complaint Description: Customer reports delay in mobile SIM activation after completing the verification process.
+Priority: Medium
+Category: Mobile Services
+Department: Telecommunications Department
+Staff: Meena Reddy
+Status: Verification Checking
+Remarks: Complaint details are under verification.
+Status History: 23-09-2026 10:00:00 - Verification Checking

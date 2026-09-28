@@ -1,0 +1,15 @@
+Complaint ID: CMP-318
+Registered On: 20-09-2026 11:05:00
+Customer ID: CUS-318
+Customer Name: Kiran
+Customer Email: kiran.mohan@gmail.com
+Phone Number: 9876543110
+Address: Nallagandla
+Complaint Description: overflowing drain with garbage and stagnant rainwater outside homes
+Priority: High
+Category: Drainage
+Department: Public Works
+Staff: Sanjay Kumar
+Status: In Progress
+Remarks: Jet cleaning of the drain is scheduled for this shift.
+Status History: 20-09-2026 11:05:00 - In Progress

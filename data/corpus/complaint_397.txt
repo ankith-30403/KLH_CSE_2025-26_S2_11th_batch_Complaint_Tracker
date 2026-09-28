@@ -1,0 +1,15 @@
+Complaint ID: CMP-397
+Registered On: 06-10-2026 11:00:00
+Customer ID: CUS-397
+Customer Name: Manoj
+Customer Email: manoj.d@gmail.com
+Phone Number: 9876543189
+Address: Hayathnagar
+Complaint Description: water supply pressure is very low and water reaches only the ground floor
+Priority: Medium
+Category: Water Supply
+Department: Urban Water Services
+Staff: Neelima B
+Status: Checking
+Remarks: Pressure analysis is being done on the supply network.
+Status History: 06-10-2026 11:00:00 - Checking

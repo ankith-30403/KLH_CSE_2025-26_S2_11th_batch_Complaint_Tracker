@@ -1,0 +1,15 @@
+Complaint ID: CMP-340
+Registered On: 24-09-2026 08:15:00
+Customer ID: CUS-340
+Customer Name: Sheetal
+Customer Email: sheetal.m@gmail.com
+Phone Number: 9876543132
+Address: Dilsukhnagar
+Complaint Description: stagnant rainwater mixed with garbage in front of the apartment
+Priority: High
+Category: Waterlogging
+Department: Drainage Board
+Staff: Rakesh Varma
+Status: In Progress
+Remarks: Drain maintenance is active in the lane.
+Status History: 24-09-2026 08:15:00 - In Progress

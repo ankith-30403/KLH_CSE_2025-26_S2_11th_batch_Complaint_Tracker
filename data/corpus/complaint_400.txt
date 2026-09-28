@@ -1,0 +1,15 @@
+Complaint ID: CMP-400
+Registered On: 07-10-2026 10:15:00
+Customer ID: CUS-400
+Customer Name: Suhas
+Customer Email: suhas.p@gmail.com
+Phone Number: 9876543192
+Address: Moosapet
+Complaint Description: electricity board has not repaired the damaged transformer for a week
+Priority: High
+Category: Electricity
+Department: Electrical Maintenance
+Staff: Asha K
+Status: Open
+Remarks: Transformer replacement request is awaiting high-priority action.
+Status History: 07-10-2026 10:15:00 - Open

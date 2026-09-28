@@ -8,8 +8,8 @@ Address: House 300, Sector 4, Hyderabad, Telangana
 Complaint Description: Customer reports delayed delivery and missing parcel updates for the order.
 Priority: Low
 Category: Delivery
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 15:09:00 - Submitted
+Department: Logistics Department
+Staff: Deepak Verma
+Status: Waiting for Superior Approval
+Remarks: Complaint is waiting for superior approval before further action.
+Status History: 23-09-2026 10:00:00 - Waiting for Superior Approval

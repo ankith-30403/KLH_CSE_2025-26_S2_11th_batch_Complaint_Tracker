@@ -1,0 +1,15 @@
+Complaint ID: CMP-325
+Registered On: 24-09-2026 11:45:00
+Customer ID: CUS-325
+Customer Name: Lavanya
+Customer Email: lavanya.g@gmail.com
+Phone Number: 9876543117
+Address: Madhura Nagar
+Complaint Description: smoke and fumes from old boilers polluting the nearby homes
+Priority: High
+Category: Air Pollution
+Department: Industrial Safety
+Staff: Yogesh Rao
+Status: Open
+Remarks: Boiler stack emission check has been requested.
+Status History: 24-09-2026 11:45:00 - Open

@@ -1,0 +1,15 @@
+Complaint ID: CMP-330
+Registered On: 19-09-2026 08:55:00
+Customer ID: CUS-330
+Customer Name: Sanjay
+Customer Email: sanjay.mishra@gmail.com
+Phone Number: 9876543122
+Address: Jeedimetla
+Complaint Description: industrial effluent mixing with rainwater in the canal
+Priority: High
+Category: Water Pollution
+Department: Water Resource Board
+Staff: Madhu Kumar
+Status: Pending
+Remarks: Effluent discharge investigation is under progress.
+Status History: 19-09-2026 08:55:00 - Pending

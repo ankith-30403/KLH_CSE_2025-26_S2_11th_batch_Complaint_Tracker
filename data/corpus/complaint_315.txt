@@ -1,0 +1,15 @@
+Complaint ID: CMP-315
+Registered On: 24-09-2026 06:55:00
+Customer ID: CUS-315
+Customer Name: Pooja
+Customer Email: pooja.kumar@gmail.com
+Phone Number: 9876543107
+Address: Gachibowli
+Complaint Description: construction debris and rainwater mixed with mud on the public road
+Priority: Medium
+Category: Dust
+Department: Road Works
+Staff: Ashok Das
+Status: Pending
+Remarks: Contractor is requested to clean the debris immediately.
+Status History: 24-09-2026 06:55:00 - Pending

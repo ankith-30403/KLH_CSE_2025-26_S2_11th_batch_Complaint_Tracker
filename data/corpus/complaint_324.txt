@@ -1,0 +1,15 @@
+Complaint ID: CMP-324
+Registered On: 23-09-2026 07:50:00
+Customer ID: CUS-324
+Customer Name: Mahesh
+Customer Email: mahesh.bhat@gmail.com
+Phone Number: 9876543116
+Address: Chandanagar
+Complaint Description: garbage piles near the bus stop attracting dogs and insects
+Priority: Medium
+Category: Waste Management
+Department: Sanitation Team
+Staff: Nisha Kulkarni
+Status: Pending
+Remarks: Collection schedule has been advanced to remove the waste.
+Status History: 23-09-2026 07:50:00 - Pending

@@ -1,0 +1,15 @@
+Complaint ID: CMP-323
+Registered On: 18-09-2026 09:05:00
+Customer ID: CUS-323
+Customer Name: Swathi
+Customer Email: swathi.m@gmail.com
+Phone Number: 9876543115
+Address: Kukatpally
+Complaint Description: pond water turning black and foul smelling after the rain
+Priority: High
+Category: Water Pollution
+Department: Water Quality Unit
+Staff: Harsha Babu
+Status: Assigned
+Remarks: Water sample collection has been ordered for testing.
+Status History: 18-09-2026 09:05:00 - Assigned

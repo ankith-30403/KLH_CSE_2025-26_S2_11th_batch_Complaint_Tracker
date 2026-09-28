@@ -1,0 +1,15 @@
+Complaint ID: CMP-327
+Registered On: 21-09-2026 22:00:00
+Customer ID: CUS-327
+Customer Name: Shreya
+Customer Email: shreya.patel@gmail.com
+Phone Number: 9876543119
+Address: Erragadda
+Complaint Description: loud music and traffic noise during rain continues till midnight
+Priority: Medium
+Category: Noise Pollution
+Department: Noise Control
+Staff: Jagan Kumar
+Status: Checking
+Remarks: The area is being monitored for compliance with noise limits.
+Status History: 21-09-2026 22:00:00 - Checking

@@ -1,0 +1,15 @@
+Complaint ID: CMP-388
+Registered On: 04-10-2026 11:25:00
+Customer ID: CUS-388
+Customer Name: Ira
+Customer Email: ira.b@gmail.com
+Phone Number: 9876543180
+Address: Dilsukhnagar
+Complaint Description: electric meter is showing unusually high usage and sparks near the box
+Priority: High
+Category: Electricity
+Department: Meter Department
+Staff: Ashok Y
+Status: Assigned
+Remarks: Electrical team requested for urgent inspection of the meter unit.
+Status History: 04-10-2026 11:25:00 - Assigned

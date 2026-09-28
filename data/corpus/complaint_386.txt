@@ -1,0 +1,15 @@
+Complaint ID: CMP-386
+Registered On: 03-10-2026 08:55:00
+Customer ID: CUS-386
+Customer Name: Priyanka
+Customer Email: priyanka.m@gmail.com
+Phone Number: 9876543178
+Address: Ameerpet
+Complaint Description: public transport bus was delayed by more than 40 minutes in rush hour
+Priority: Medium
+Category: Public Transport
+Department: Bus Operations
+Staff: Harish Rao
+Status: Checking
+Remarks: Departure schedule audit is being reviewed with the depot.
+Status History: 03-10-2026 08:55:00 - Checking

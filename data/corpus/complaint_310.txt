@@ -1,0 +1,15 @@
+Complaint ID: CMP-310
+Registered On: 19-09-2026 07:15:00
+Customer ID: CUS-310
+Customer Name: Ramesh
+Customer Email: ramesh.civil@gmail.com
+Phone Number: 9876543102
+Address: Madhapur
+Complaint Description: garbage and plastic waste blocking the rain drain near the colony
+Priority: High
+Category: Garbage
+Department: Municipal Sanitation
+Staff: Karthik Menon
+Status: In Progress
+Remarks: Drain cleaning work is ongoing after heavy rain.
+Status History: 19-09-2026 07:15:00 - In Progress

@@ -1,0 +1,15 @@
+Complaint ID: CMP-314
+Registered On: 23-09-2026 17:30:00
+Customer ID: CUS-314
+Customer Name: Dinesh
+Customer Email: dinesh.rao@gmail.com
+Phone Number: 9876543106
+Address: Tolichowki
+Complaint Description: garbage burning beside the river bank creating smoke and ash
+Priority: High
+Category: Air Pollution
+Department: Environmental Cell
+Staff: Ritu Sharma
+Status: Open
+Remarks: Authorities are checking illegal waste burning near the river.
+Status History: 23-09-2026 17:30:00 - Open

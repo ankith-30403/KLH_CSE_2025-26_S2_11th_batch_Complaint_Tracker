@@ -1,0 +1,15 @@
+Complaint ID: CMP-391
+Registered On: 04-10-2026 15:05:00
+Customer ID: CUS-391
+Customer Name: Nitin
+Customer Email: nitin.g@gmail.com
+Phone Number: 9876543183
+Address: Malkajgiri
+Complaint Description: accident at pedestrian crossing because the driver ignored the signal
+Priority: High
+Category: Road Accident
+Department: Traffic Enforcement
+Staff: Mithali R
+Status: Pending
+Remarks: Signal violation report is being processed by the police.
+Status History: 04-10-2026 15:05:00 - Pending

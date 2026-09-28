@@ -1,0 +1,15 @@
+Complaint ID: CMP-329
+Registered On: 18-09-2026 12:35:00
+Customer ID: CUS-329
+Customer Name: Priya
+Customer Email: priya.m@gmail.com
+Phone Number: 9876543121
+Address: Somajiguda
+Complaint Description: ash and smoke from illegal waste incineration near the lane
+Priority: High
+Category: Air Pollution
+Department: Environment Office
+Staff: Sonia Thomas
+Status: Assigned
+Remarks: The disposal site is under inspection by the authority.
+Status History: 18-09-2026 12:35:00 - Assigned

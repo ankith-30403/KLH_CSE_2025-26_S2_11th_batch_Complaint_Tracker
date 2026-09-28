@@ -8,8 +8,8 @@ Address: House 150, Sector 7, Hyderabad, Telangana
 Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
 Priority: High
 Category: Civic Services
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:47:00 - Submitted
+Department: Public Works Department
+Staff: Anil Rao
+Status: In Progress
+Remarks: Technical team is working on this complaint.
+Status History: 23-09-2026 10:00:00 - In Progress

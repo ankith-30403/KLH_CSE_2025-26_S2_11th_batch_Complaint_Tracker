@@ -1,0 +1,15 @@
+Complaint ID: CMP-344
+Registered On: 20-09-2026 07:25:00
+Customer ID: CUS-344
+Customer Name: Pallavi
+Customer Email: pallavi.g@gmail.com
+Phone Number: 9876543136
+Address: Banjarahills
+Complaint Description: stormwater and sewage mixed near the footpath and shops
+Priority: High
+Category: Sewage
+Department: Water Utilities
+Staff: Kiran Reddy
+Status: In Progress
+Remarks: Emergency response team is on its way.
+Status History: 20-09-2026 07:25:00 - In Progress

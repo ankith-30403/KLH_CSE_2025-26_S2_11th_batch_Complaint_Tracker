@@ -1,0 +1,15 @@
+Complaint ID: CMP-331
+Registered On: 17-09-2026 09:30:00
+Customer ID: CUS-331
+Customer Name: Ishita
+Customer Email: ishita.nair@gmail.com
+Phone Number: 9876543123
+Address: Uppal
+Complaint Description: bad smell from landfill spreading near residential apartments
+Priority: Medium
+Category: Odor Pollution
+Department: Waste Management
+Staff: Vasanth Reddy
+Status: Open
+Remarks: Odor monitoring has been requested near the landfill.
+Status History: 17-09-2026 09:30:00 - Open

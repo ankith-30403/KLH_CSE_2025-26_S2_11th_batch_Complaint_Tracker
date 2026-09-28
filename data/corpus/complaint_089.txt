@@ -8,8 +8,8 @@ Address: House 89, Gachibowli Main Road, Hyderabad, Telangana
 Complaint Description: Resident reports electricity outage near Gachibowli and requests prompt action from the concerned department.
 Priority: Low
 Category: Civic Services
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:30:00 - Submitted
+Department: Electricity Department
+Staff: Sundar Reddy
+Status: Checked
+Remarks: Complaint checked by the concerned department.
+Status History: 23-09-2026 10:00:00 - Checked

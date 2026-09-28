@@ -1,0 +1,15 @@
+Complaint ID: CMP-312
+Registered On: 21-09-2026 09:45:00
+Customer ID: CUS-312
+Customer Name: Harish
+Customer Email: harish.nath@gmail.com
+Phone Number: 9876543104
+Address: Begumpet
+Complaint Description: dirty rainwater mixed with waste flowing near the market
+Priority: Medium
+Category: Drainage
+Department: Urban Services
+Staff: Seema Nair
+Status: Assigned
+Remarks: Cleaning crew has been dispatched to clear the blockage.
+Status History: 21-09-2026 09:45:00 - Assigned

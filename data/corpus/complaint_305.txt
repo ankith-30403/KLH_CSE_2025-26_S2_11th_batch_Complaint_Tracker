@@ -1,0 +1,15 @@
+Complaint ID: CMP-305
+Registered On: 23-09-2026 10:00:00
+Customer ID: CUS-305
+Customer Name: Neha Rao
+Customer Email: neharao305@example.com
+Phone Number: 9000000305
+Address: House 305, Kukatpally, Hyderabad, Telangana
+Complaint Description: Customer reports weak mobile network signal and frequent call drops in the area.
+Priority: High
+Category: Mobile Services
+Department: Telecommunications Department
+Staff: Priya Sharma
+Status: Checked
+Remarks: Complaint checked by the concerned department.
+Status History: 23-09-2026 10:00:00 - Checked

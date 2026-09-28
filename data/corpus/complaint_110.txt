@@ -8,8 +8,8 @@ Address: House 110, Sector 3, Hyderabad, Telangana
 Complaint Description: Customer reports a defective product that stopped working within a week of purchase.
 Priority: High
 Category: Product Quality
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:38:00 - Submitted
+Department: Quality Assurance
+Staff: Meghana Shah
+Status: In Progress
+Remarks: Technical team is working on this complaint.
+Status History: 23-09-2026 10:00:00 - In Progress

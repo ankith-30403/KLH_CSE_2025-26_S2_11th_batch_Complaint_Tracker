@@ -1,0 +1,15 @@
+Complaint ID: CMP-343
+Registered On: 17-09-2026 19:40:00
+Customer ID: CUS-343
+Customer Name: Abhishek
+Customer Email: abhishek.d@gmail.com
+Phone Number: 9876543135
+Address: Moula Ali
+Complaint Description: smoke from truck burning waste in the open area near houses
+Priority: High
+Category: Waste Burning
+Department: Environment Control
+Staff: Swati Naik
+Status: Assigned
+Remarks: The truck owner has been notified for action.
+Status History: 17-09-2026 19:40:00 - Assigned

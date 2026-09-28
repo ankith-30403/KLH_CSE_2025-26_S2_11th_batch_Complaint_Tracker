@@ -1,0 +1,15 @@
+Complaint ID: CMP-377
+Registered On: 01-10-2026 08:10:00
+Customer ID: CUS-377
+Customer Name: Niharika
+Customer Email: niharika.p@gmail.com
+Phone Number: 9876543169
+Address: Kukatpally
+Complaint Description: water supply was cut off for the whole day in the colony
+Priority: High
+Category: Water Supply
+Department: Municipal Water Office
+Staff: Sanjay B
+Status: In Progress
+Remarks: Water schedule issue is under review by the department.
+Status History: 01-10-2026 08:10:00 - In Progress

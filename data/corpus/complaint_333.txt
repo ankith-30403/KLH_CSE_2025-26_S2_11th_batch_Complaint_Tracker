@@ -1,0 +1,15 @@
+Complaint ID: CMP-333
+Registered On: 22-09-2026 13:45:00
+Customer ID: CUS-333
+Customer Name: Reema
+Customer Email: reema.m@gmail.com
+Phone Number: 9876543125
+Address: Alwal
+Complaint Description: construction dust after rainfall is spreading around the local street
+Priority: Medium
+Category: Dust Pollution
+Department: Safety Office
+Staff: Ravindra Naik
+Status: Checking
+Remarks: Dust suppression measures are requested at the site.
+Status History: 22-09-2026 13:45:00 - Checking

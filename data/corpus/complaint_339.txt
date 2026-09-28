@@ -1,0 +1,15 @@
+Complaint ID: CMP-339
+Registered On: 19-09-2026 12:40:00
+Customer ID: CUS-339
+Customer Name: Karthik
+Customer Email: karthik.r@gmail.com
+Phone Number: 9876543131
+Address: Moosapet
+Complaint Description: garbage dump near the riverbank is floating into the water during rain
+Priority: High
+Category: River Pollution
+Department: River Cleanup Unit
+Staff: Latha B
+Status: Open
+Remarks: River cleanup crew is being mobilized to the site.
+Status History: 19-09-2026 12:40:00 - Open

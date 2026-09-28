@@ -1,0 +1,15 @@
+Complaint ID: CMP-338
+Registered On: 24-09-2026 09:00:00
+Customer ID: CUS-338
+Customer Name: Madhavi
+Customer Email: madhavi.n@gmail.com
+Phone Number: 9876543130
+Address: Sainikpuri
+Complaint Description: sewage contaminated water tank near the neighborhood after rain
+Priority: High
+Category: Water Pollution
+Department: Public Health
+Staff: Gautham Y
+Status: Assigned
+Remarks: Tank inspection and chlorination are scheduled.
+Status History: 24-09-2026 09:00:00 - Assigned

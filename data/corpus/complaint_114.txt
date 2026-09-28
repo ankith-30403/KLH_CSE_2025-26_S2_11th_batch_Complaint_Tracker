@@ -8,8 +8,8 @@ Address: House 114, Sector 7, Hyderabad, Telangana
 Complaint Description: Customer reports incorrect billing and repeated charges on the monthly statement.
 Priority: Low
 Category: Billing
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:42:00 - Submitted
+Department: Billing Department
+Staff: Sonia Das
+Status: In Progress
+Remarks: Technical team is working on this complaint.
+Status History: 23-09-2026 10:00:00 - In Progress

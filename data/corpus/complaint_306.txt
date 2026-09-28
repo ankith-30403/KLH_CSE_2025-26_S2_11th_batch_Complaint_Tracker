@@ -1,0 +1,15 @@
+Complaint ID: CMP-306
+Registered On: 23-09-2026 10:05:00
+Customer ID: CUS-306
+Customer Name: Vikram Singh
+Customer Email: vikramsingh306@example.com
+Phone Number: 9000000306
+Address: Flat 306, Ameerpet, Hyderabad, Telangana
+Complaint Description: Customer reports that mobile data is not working despite having an active plan.
+Priority: High
+Category: Mobile Services
+Department: Telecommunications Department
+Staff: Rahul Kumar
+Status: In Progress
+Remarks: Technical team is working on this complaint.
+Status History: 23-09-2026 10:00:00 - In Progress

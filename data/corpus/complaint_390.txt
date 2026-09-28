@@ -1,0 +1,15 @@
+Complaint ID: CMP-390
+Registered On: 04-10-2026 18:10:00
+Customer ID: CUS-390
+Customer Name: Shreya
+Customer Email: shreya.v@gmail.com
+Phone Number: 9876543182
+Address: LB Nagar
+Complaint Description: public bus conductor misbehaved with passengers and refused to help
+Priority: Medium
+Category: Public Transport
+Department: Passenger Service Office
+Staff: Samir K
+Status: Open
+Remarks: Complaint has been escalated for service conduct review.
+Status History: 04-10-2026 18:10:00 - Open

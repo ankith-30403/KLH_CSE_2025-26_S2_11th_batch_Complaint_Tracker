@@ -1,0 +1,15 @@
+Complaint ID: CMP-320
+Registered On: 22-09-2026 08:10:00
+Customer ID: CUS-320
+Customer Name: Vivek
+Customer Email: vivek.pandey@gmail.com
+Phone Number: 9876543112
+Address: Saroornagar
+Complaint Description: riverbank covered with plastic bottles and floating garbage
+Priority: High
+Category: River Pollution
+Department: River Protection
+Staff: Roshni Patel
+Status: Pending
+Remarks: Cleanup volunteers and local authorities are being contacted.
+Status History: 22-09-2026 08:10:00 - Pending

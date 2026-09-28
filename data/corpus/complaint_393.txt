@@ -1,0 +1,15 @@
+Complaint ID: CMP-393
+Registered On: 05-10-2026 09:30:00
+Customer ID: CUS-393
+Customer Name: Vikas
+Customer Email: vikas.s@gmail.com
+Phone Number: 9876543185
+Address: Kothapet
+Complaint Description: water supply line is leaking and flooding the road outside homes
+Priority: High
+Category: Water Supply
+Department: Water Pipeline Unit
+Staff: Ritika S
+Status: Assigned
+Remarks: Leak repair team is clearing the damaged pipe section.
+Status History: 05-10-2026 09:30:00 - Assigned

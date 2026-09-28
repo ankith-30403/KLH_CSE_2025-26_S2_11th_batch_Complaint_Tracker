@@ -1,0 +1,15 @@
+Complaint ID: CMP-387
+Registered On: 03-10-2026 16:40:00
+Customer ID: CUS-387
+Customer Name: Dheeraj
+Customer Email: dheeraj.k@gmail.com
+Phone Number: 9876543179
+Address: Shamshabad
+Complaint Description: accident between a car and bike caused by poor road visibility
+Priority: High
+Category: Road Accident
+Department: Traffic Control
+Staff: Sreeja M
+Status: Open
+Remarks: Crash investigation and road sign review are ongoing.
+Status History: 03-10-2026 16:40:00 - Open

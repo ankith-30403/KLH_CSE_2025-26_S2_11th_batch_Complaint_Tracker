@@ -1,0 +1,15 @@
+Complaint ID: CMP-342
+Registered On: 23-09-2026 14:00:00
+Customer ID: CUS-342
+Customer Name: Nisha
+Customer Email: nisha.v@gmail.com
+Phone Number: 9876543134
+Address: Karmanghat
+Complaint Description: bad smell from drainage water crossing the residential street
+Priority: Medium
+Category: Drainage
+Department: Sanitation Office
+Staff: Hari Prasad
+Status: Open
+Remarks: Drainage smell assessment is being carried out.
+Status History: 23-09-2026 14:00:00 - Open

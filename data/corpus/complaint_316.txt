@@ -1,0 +1,15 @@
+Complaint ID: CMP-316
+Registered On: 24-09-2026 21:20:00
+Customer ID: CUS-316
+Customer Name: Arvind
+Customer Email: arvindsharma@gmail.com
+Phone Number: 9876543108
+Address: Qutbullapur
+Complaint Description: late night noise from loud speakers and traffic after rain
+Priority: Medium
+Category: Noise Pollution
+Department: Traffic Control
+Staff: Lalitha Reddy
+Status: Checking
+Remarks: Noise level monitoring is being conducted in the area.
+Status History: 24-09-2026 21:20:00 - Checking

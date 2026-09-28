@@ -1,0 +1,15 @@
+Complaint ID: CMP-379
+Registered On: 01-10-2026 19:55:00
+Customer ID: CUS-379
+Customer Name: Lokesh
+Customer Email: lokesh.a@gmail.com
+Phone Number: 9876543171
+Address: Nallagandla
+Complaint Description: road accident caused by a speeding vehicle near the junction
+Priority: High
+Category: Road Accident
+Department: Traffic Police
+Staff: Varsha Nair
+Status: Open
+Remarks: Accident site investigation is in progress.
+Status History: 01-10-2026 19:55:00 - Open

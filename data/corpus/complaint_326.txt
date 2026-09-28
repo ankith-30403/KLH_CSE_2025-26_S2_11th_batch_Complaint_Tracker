@@ -1,0 +1,15 @@
+Complaint ID: CMP-326
+Registered On: 22-09-2026 06:15:00
+Customer ID: CUS-326
+Customer Name: Gopal
+Customer Email: gopal.k@gmail.com
+Phone Number: 9876543118
+Address: Hayathnagar
+Complaint Description: stormwater drain overflowing into the residential street
+Priority: High
+Category: Flooding
+Department: Public Works
+Staff: Neha Joshi
+Status: In Progress
+Remarks: Drain cleaning work is underway to reduce overflow.
+Status History: 22-09-2026 06:15:00 - In Progress

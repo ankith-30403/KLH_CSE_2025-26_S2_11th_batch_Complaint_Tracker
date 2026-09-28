@@ -1,0 +1,15 @@
+Complaint ID: CMP-336
+Registered On: 20-09-2026 10:00:00
+Customer ID: CUS-336
+Customer Name: Rohit
+Customer Email: rohit.p@gmail.com
+Phone Number: 9876543128
+Address: Himayatnagar
+Complaint Description: unsafe dumping of biomedical waste near a school and canal
+Priority: High
+Category: Waste Disposal
+Department: Health Department
+Staff: Asha Rani
+Status: Pending
+Remarks: The waste handling team has been informed to collect the material.
+Status History: 20-09-2026 10:00:00 - Pending

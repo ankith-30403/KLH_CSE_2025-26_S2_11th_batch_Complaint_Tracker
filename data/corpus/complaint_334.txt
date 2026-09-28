@@ -1,0 +1,15 @@
+Complaint ID: CMP-334
+Registered On: 21-09-2026 15:15:00
+Customer ID: CUS-334
+Customer Name: Bharat
+Customer Email: bharat.k@gmail.com
+Phone Number: 9876543126
+Address: Secunderabad
+Complaint Description: petrol fumes and smoke from an unlicensed workshop
+Priority: High
+Category: Air Pollution
+Department: Environment Board
+Staff: Pavithra Devi
+Status: Open
+Remarks: Workshop exhaust inspection has been ordered.
+Status History: 21-09-2026 15:15:00 - Open

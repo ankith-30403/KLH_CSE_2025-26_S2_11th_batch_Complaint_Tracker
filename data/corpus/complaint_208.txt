@@ -8,8 +8,8 @@ Address: House 208, Sector 2, Hyderabad, Telangana
 Complaint Description: Customer reports repeated app crashes and login failures while accessing the service.
 Priority: Medium
 Category: Technical Issue
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:37:00 - Submitted
+Department: IT Support
+Staff: Karthik Menon
+Status: Waiting for Superior Approval
+Remarks: Complaint is waiting for superior approval before further action.
+Status History: 23-09-2026 10:00:00 - Waiting for Superior Approval

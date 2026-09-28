@@ -1,0 +1,15 @@
+Complaint ID: CMP-309
+Registered On: 18-09-2026 08:30:00
+Customer ID: CUS-309
+Customer Name: Ananya
+Customer Email: ananya.dev@gmail.com
+Phone Number: 9876543101
+Address: Banjara Hills
+Complaint Description: rainwater filled road causing severe traffic jam during storm
+Priority: High
+Category: Flooding
+Department: Road Maintenance
+Staff: Priya Rao
+Status: Open
+Remarks: Rainwater drainage check is required on the main road.
+Status History: 18-09-2026 08:30:00 - Open

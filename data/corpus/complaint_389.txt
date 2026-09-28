@@ -1,0 +1,15 @@
+Complaint ID: CMP-389
+Registered On: 04-10-2026 07:15:00
+Customer ID: CUS-389
+Customer Name: Rishi
+Customer Email: rishi.t@gmail.com
+Phone Number: 9876543181
+Address: Ghatkesar
+Complaint Description: water supply stopped again without notice causing resident hardship
+Priority: High
+Category: Water Supply
+Department: Water Supply Control
+Staff: Latha P
+Status: Pending
+Remarks: Supply team has been requested to check the valve schedule.
+Status History: 04-10-2026 07:15:00 - Pending

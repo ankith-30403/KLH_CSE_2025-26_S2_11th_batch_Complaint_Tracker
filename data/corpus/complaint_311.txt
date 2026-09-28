@@ -1,0 +1,15 @@
+Complaint ID: CMP-311
+Registered On: 20-09-2026 12:00:00
+Customer ID: CUS-311
+Customer Name: Sonia
+Customer Email: sonia.verma@yahoo.com
+Phone Number: 9876543103
+Address: Kondapur
+Complaint Description: river water polluted by garbage and sewage flowing from the nearby block
+Priority: High
+Category: River Pollution
+Department: Water Board
+Staff: Naveen Iyer
+Status: Pending
+Remarks: Water sample testing is scheduled for inspection.
+Status History: 20-09-2026 12:00:00 - Pending

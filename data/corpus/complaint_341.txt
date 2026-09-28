@@ -1,0 +1,15 @@
+Complaint ID: CMP-341
+Registered On: 18-09-2026 17:05:00
+Customer ID: CUS-341
+Customer Name: Vijay
+Customer Email: vijay.n@gmail.com
+Phone Number: 9876543133
+Address: Malkajgiri
+Complaint Description: trash and plastic blocking the canal after the monsoon rain
+Priority: High
+Category: Garbage
+Department: Canal Maintenance
+Staff: Preeti Sen
+Status: Pending
+Remarks: Canal cleaning team has been ordered to inspect the blockage.
+Status History: 18-09-2026 17:05:00 - Pending

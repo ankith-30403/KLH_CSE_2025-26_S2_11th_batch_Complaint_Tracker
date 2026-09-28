@@ -8,8 +8,8 @@ Address: House 98, Banjara Hills Main Road, Hyderabad, Telangana
 Complaint Description: Resident reports mosquito infestation near Banjara Hills and requests prompt action from the concerned department.
 Priority: Low
 Category: Civic Services
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:30:00 - Submitted
+Department: Water Utilities
+Staff: Ravi Kumar
+Status: In Progress
+Remarks: Technical team is working on this complaint.
+Status History: 23-09-2026 10:00:00 - In Progress

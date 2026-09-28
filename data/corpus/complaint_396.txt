@@ -1,0 +1,15 @@
+Complaint ID: CMP-396
+Registered On: 06-10-2026 18:05:00
+Customer ID: CUS-396
+Customer Name: Sonal
+Customer Email: sonal.r@gmail.com
+Phone Number: 9876543188
+Address: Qutbullapur
+Complaint Description: power cut in the residential area is affecting the entire street
+Priority: High
+Category: Electricity
+Department: Power Distribution Office
+Staff: Mahesh V
+Status: Open
+Remarks: A fault detection team is being sent to the substation.
+Status History: 06-10-2026 18:05:00 - Open

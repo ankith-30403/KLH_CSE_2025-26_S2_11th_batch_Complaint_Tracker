@@ -1,0 +1,15 @@
+Complaint ID: CMP-392
+Registered On: 05-10-2026 13:40:00
+Customer ID: CUS-392
+Customer Name: Pooja
+Customer Email: pooja.n@gmail.com
+Phone Number: 9876543184
+Address: Patancheru
+Complaint Description: power outage affecting clinic equipment and patient care
+Priority: High
+Category: Electricity
+Department: Emergency Response Office
+Staff: Nisha G
+Status: In Progress
+Remarks: Backup power support and maintenance check have been dispatched.
+Status History: 05-10-2026 13:40:00 - In Progress

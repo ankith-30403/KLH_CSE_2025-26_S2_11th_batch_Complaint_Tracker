@@ -1,0 +1,15 @@
+Complaint ID: CMP-382
+Registered On: 02-10-2026 18:45:00
+Customer ID: CUS-382
+Customer Name: Kavya
+Customer Email: kavya.g@gmail.com
+Phone Number: 9876543174
+Address: Madhapur
+Complaint Description: bus stop lacks proper lighting and is unsafe after sunset
+Priority: Medium
+Category: Public Transport
+Department: Transport Infrastructure
+Staff: Rakesh D
+Status: Assigned
+Remarks: Bus stop maintenance request has been sent to civic works.
+Status History: 02-10-2026 18:45:00 - Assigned

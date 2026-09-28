@@ -1,0 +1,15 @@
+Complaint ID: CMP-317
+Registered On: 18-09-2026 15:40:00
+Customer ID: CUS-317
+Customer Name: Nandini
+Customer Email: nandini.ghosh@gmail.com
+Phone Number: 9876543109
+Address: Ameerpet
+Complaint Description: black smoke from generator and wet garbage near the lane
+Priority: High
+Category: Air Pollution
+Department: Safety Department
+Staff: Anil Tiwari
+Status: Assigned
+Remarks: Generator exhaust and waste disposal are under review.
+Status History: 18-09-2026 15:40:00 - Assigned

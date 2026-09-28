@@ -1,0 +1,15 @@
+Complaint ID: CMP-381
+Registered On: 02-10-2026 06:20:00
+Customer ID: CUS-381
+Customer Name: Raghav
+Customer Email: raghav.r@gmail.com
+Phone Number: 9876543173
+Address: Gachibowli
+Complaint Description: water supply is dirty and smells bad at the morning cycle
+Priority: High
+Category: Water Supply
+Department: Water Treatment Unit
+Staff: Divya Nair
+Status: Open
+Remarks: Water line flushing is scheduled for the next shift.
+Status History: 02-10-2026 06:20:00 - Open

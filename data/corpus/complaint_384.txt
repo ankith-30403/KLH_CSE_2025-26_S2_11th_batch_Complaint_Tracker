@@ -1,0 +1,15 @@
+Complaint ID: CMP-384
+Registered On: 03-10-2026 22:10:00
+Customer ID: CUS-384
+Customer Name: Sonia
+Customer Email: sonia.t@gmail.com
+Phone Number: 9876543176
+Address: Banjara Hills
+Complaint Description: streetlights turned off in the area and many residents reported dark lanes
+Priority: High
+Category: Electricity
+Department: Street Lighting Unit
+Staff: Madan Rao
+Status: In Progress
+Remarks: Faulty circuit in the streetlight panel is being repaired.
+Status History: 03-10-2026 22:10:00 - In Progress

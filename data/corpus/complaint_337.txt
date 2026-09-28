@@ -1,0 +1,15 @@
+Complaint ID: CMP-337
+Registered On: 18-09-2026 21:50:00
+Customer ID: CUS-337
+Customer Name: Suhas
+Customer Email: suhas.a@gmail.com
+Phone Number: 9876543129
+Address: Yousufguda
+Complaint Description: generator noise continues late at night causing disturbance
+Priority: Medium
+Category: Noise Pollution
+Department: Building Safety
+Staff: Vignesh S
+Status: Checking
+Remarks: Generator compliance review is requested.
+Status History: 18-09-2026 21:50:00 - Checking

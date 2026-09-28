@@ -1,0 +1,15 @@
+Complaint ID: CMP-321
+Registered On: 19-09-2026 10:40:00
+Customer ID: CUS-321
+Customer Name: Deepa
+Customer Email: deepa.singh@gmail.com
+Phone Number: 9876543113
+Address: L B Nagar
+Complaint Description: dust and mud from rain-soaked construction site entering the school gate
+Priority: Medium
+Category: Dust
+Department: Site Safety
+Staff: Suresh Chandra
+Status: Checking
+Remarks: A site inspection has been requested with the builder.
+Status History: 19-09-2026 10:40:00 - Checking

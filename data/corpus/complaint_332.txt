@@ -1,0 +1,15 @@
+Complaint ID: CMP-332
+Registered On: 24-09-2026 07:20:00
+Customer ID: CUS-332
+Customer Name: Tejas
+Customer Email: tejas.r@gmail.com
+Phone Number: 9876543124
+Address: Manikonda
+Complaint Description: plastic and garbage blocking the drainage after heavy rain
+Priority: High
+Category: Waste Management
+Department: City Cleanliness
+Staff: Anusha Verma
+Status: Assigned
+Remarks: Cleaning crew has been dispatched to clear the drain.
+Status History: 24-09-2026 07:20:00 - Assigned

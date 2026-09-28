@@ -1,0 +1,15 @@
+Complaint ID: CMP-385
+Registered On: 03-10-2026 10:05:00
+Customer ID: CUS-385
+Customer Name: Jatin
+Customer Email: jatin.s@gmail.com
+Phone Number: 9876543177
+Address: Madhura Nagar
+Complaint Description: municipal water line burst and water flooded the street
+Priority: High
+Category: Water Supply
+Department: Pipeline Maintenance
+Staff: Neha S
+Status: Open
+Remarks: Emergency repair crew is digging at the damaged point.
+Status History: 03-10-2026 10:05:00 - Open

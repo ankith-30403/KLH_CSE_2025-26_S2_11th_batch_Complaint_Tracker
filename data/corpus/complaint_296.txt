@@ -8,8 +8,8 @@ Address: House 296, Sector 9, Hyderabad, Telangana
 Complaint Description: Resident reports frequent civic service issues and requests a prompt inspection from the local department.
 Priority: High
 Category: Civic Services
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 15:05:00 - Submitted
+Department: Public Works Department
+Staff: Anil Rao
+Status: Waiting for Superior Approval
+Remarks: Complaint is waiting for superior approval before further action.
+Status History: 23-09-2026 10:00:00 - Waiting for Superior Approval

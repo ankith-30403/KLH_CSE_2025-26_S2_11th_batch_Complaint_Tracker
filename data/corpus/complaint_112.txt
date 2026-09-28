@@ -8,8 +8,8 @@ Address: House 112, Sector 5, Hyderabad, Telangana
 Complaint Description: Customer reports poor support response and unclear resolution steps from the help desk.
 Priority: Medium
 Category: Customer Service
-Department: Not Assigned
-Staff: Not Assigned
-Status: Submitted
-Remarks: Complaint registered successfully.
-Status History: 21-09-2026 13:40:00 - Submitted
+Department: Customer Support
+Staff: Priya Nair
+Status: Waiting for Superior Approval
+Remarks: Complaint is waiting for superior approval before further action.
+Status History: 23-09-2026 10:00:00 - Waiting for Superior Approval

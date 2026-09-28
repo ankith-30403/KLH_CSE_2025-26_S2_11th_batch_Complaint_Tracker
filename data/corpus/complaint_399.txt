@@ -1,0 +1,15 @@
+Complaint ID: CMP-399
+Registered On: 06-10-2026 16:20:00
+Customer ID: CUS-399
+Customer Name: Amit
+Customer Email: amit.k@gmail.com
+Phone Number: 9876543191
+Address: Uppal
+Complaint Description: speeding truck caused collision with a scooter at the market square
+Priority: High
+Category: Road Accident
+Department: Traffic Police
+Staff: Tanya M
+Status: Pending
+Remarks: Traffic police are examining the accident report and vehicle details.
+Status History: 06-10-2026 16:20:00 - Pending

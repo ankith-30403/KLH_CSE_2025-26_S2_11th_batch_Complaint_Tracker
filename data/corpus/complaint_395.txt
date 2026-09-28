@@ -1,0 +1,15 @@
+Complaint ID: CMP-395
+Registered On: 05-10-2026 21:15:00
+Customer ID: CUS-395
+Customer Name: Uday
+Customer Email: uday.m@gmail.com
+Phone Number: 9876543187
+Address: Manikonda
+Complaint Description: road accident due to a vehicle driving in the wrong lane at night
+Priority: High
+Category: Road Accident
+Department: Traffic Safety Office
+Staff: Suman J
+Status: Open
+Remarks: Accident evidence and dashcam checks are being collected.
+Status History: 05-10-2026 21:15:00 - Open

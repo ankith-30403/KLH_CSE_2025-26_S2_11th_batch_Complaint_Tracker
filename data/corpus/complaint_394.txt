@@ -1,0 +1,15 @@
+Complaint ID: CMP-394
+Registered On: 05-10-2026 07:25:00
+Customer ID: CUS-394
+Customer Name: Aditi
+Customer Email: aditi.h@gmail.com
+Phone Number: 9876543186
+Address: Saroornagar
+Complaint Description: public transport app shows bus but the bus never arrives at the stop
+Priority: Medium
+Category: Public Transport
+Department: Digital Transit Desk
+Staff: Rajesh T
+Status: Checking
+Remarks: Fleet tracking logs are being reviewed against the app data.
+Status History: 05-10-2026 07:25:00 - Checking

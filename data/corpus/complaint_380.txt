@@ -1,0 +1,15 @@
+Complaint ID: CMP-380
+Registered On: 02-10-2026 20:05:00
+Customer ID: CUS-380
+Customer Name: Meghana
+Customer Email: meghana.d@gmail.com
+Phone Number: 9876543172
+Address: Kondapur
+Complaint Description: power fluctuation damaged the inverter and appliances in the home
+Priority: High
+Category: Electricity
+Department: Voltage Regulation Unit
+Staff: Pranav K
+Status: Assigned
+Remarks: Voltage check is scheduled for the neighborhood.
+Status History: 02-10-2026 20:05:00 - Assigned

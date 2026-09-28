@@ -1,0 +1,15 @@
+Complaint ID: CMP-319
+Registered On: 21-09-2026 13:20:00
+Customer ID: CUS-319
+Customer Name: Aisha
+Customer Email: aisha.fathima@gmail.com
+Phone Number: 9876543111
+Address: Rajendra Nagar
+Complaint Description: toxic smell from chemical waste dumped near the rain channel
+Priority: High
+Category: Odor Pollution
+Department: Pollution Office
+Staff: Deepak Iyer
+Status: Open
+Remarks: Waste dump source inspection is moving forward.
+Status History: 21-09-2026 13:20:00 - Open

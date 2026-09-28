@@ -1,0 +1,15 @@
+Complaint ID: CMP-322
+Registered On: 17-09-2026 18:25:00
+Customer ID: CUS-322
+Customer Name: Rahul
+Customer Email: rahul.shetty@gmail.com
+Phone Number: 9876543114
+Address: Maredpally
+Complaint Description: waste burning by vendors after every heavy rainfall
+Priority: High
+Category: Waste Burning
+Department: Urban Health
+Staff: Kavya Nair
+Status: Open
+Remarks: Enforcement action is pending against the vendor blocks.
+Status History: 17-09-2026 18:25:00 - Open

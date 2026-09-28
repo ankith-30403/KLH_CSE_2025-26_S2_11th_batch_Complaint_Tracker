@@ -1,0 +1,15 @@
+Complaint ID: CMP-328
+Registered On: 20-09-2026 16:12:00
+Customer ID: CUS-328
+Customer Name: Nitin
+Customer Email: nitin.singh@gmail.com
+Phone Number: 9876543120
+Address: Sultan Bazaar
+Complaint Description: sewage leak under the footpath creates foul smell after rain
+Priority: High
+Category: Sewage
+Department: Sewer Maintenance
+Staff: Bharat Singh
+Status: Open
+Remarks: The repair team has been assigned to the leak site.
+Status History: 20-09-2026 16:12:00 - Open

@@ -1,0 +1,15 @@
+Complaint ID: CMP-383
+Registered On: 02-10-2026 09:35:00
+Customer ID: CUS-383
+Customer Name: Tushar
+Customer Email: tushar.v@gmail.com
+Phone Number: 9876543175
+Address: Secunderabad
+Complaint Description: two-wheeler accident due to potholes and broken road surface
+Priority: High
+Category: Road Accident
+Department: Road Safety Office
+Staff: Anjali Sen
+Status: Pending
+Remarks: Road inspection report is awaited for the damaged stretch.
+Status History: 02-10-2026 09:35:00 - Pending

@@ -1,0 +1,15 @@
+Complaint ID: CMP-398
+Registered On: 06-10-2026 08:40:00
+Customer ID: CUS-398
+Customer Name: Pallavi
+Customer Email: pallavi.c@gmail.com
+Phone Number: 9876543190
+Address: Begumpet
+Complaint Description: public bus keeps skipping the stop despite passengers waiting for long
+Priority: Medium
+Category: Public Transport
+Department: Bus Routing Unit
+Staff: Rupesh L
+Status: Assigned
+Remarks: Stop sequence and route adherence review has been requested.
+Status History: 06-10-2026 08:40:00 - Assigned
