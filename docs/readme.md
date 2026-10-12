@@ -23,68 +23,89 @@
 
 ## Abstract
 
-The Complaint Tracker is a Java-based application developed to simplify and organize customer complaint management without relying on external database management systems[cite: 1]. In manual workflows, complaints are tracked across fragmented channels like spreadsheets, emails, and paper logs, resulting in missed records, delayed resolution, duplicate entries, and poor accountability.
+The Complaint Tracker is a Java-based application developed to manage customer complaints efficiently using file handling and Data Structures and Algorithms. The system stores complaint records in individual text files, reducing the need for manual record management and external database systems. It allows users to search complaints using the Z-Algorithm, view and filter registered complaints, retrieve complaint status and address details, sort complaints by priority using Merge Sort, and search for complaint IDs using Binary Search.
 
-The system provides structured customer registration, automated complaint classification into categories (Billing, Technical Issue, Product Quality, Delivery, and Customer Service), and automatic routing to designated support staff. Using custom in-memory tables and indexing, the application supports instant lookups by Customer ID, tracks lifecycle status transitions (*Under Review*, *In Progress*, *Resolved*, *Closed*), and logs remarks chronologically while generating status change notifications
+The project also demonstrates advanced algorithmic techniques, including the Edmonds-Karp maximum-flow algorithm for staff assignment, a greedy approximation algorithm for staff coverage, and randomized sampling for complaint auditing. Complaint records are stored in the `data/corpus` directory, and search results can be saved in the `results/search_results.txt` file. The main objective of this project is to demonstrate the practical application of Java programming, file handling, searching, sorting, network flow, approximation, and randomized algorithms in a complaint management system.
 
 ---
 
 ## Objectives
 
-- Centralize complaint logging to prevent scattered, lost, or duplicated records
-- Implement efficient in-memory data structures for fast retrieval, indexing, and multi-attribute filtering.
-- Automate complaint classification and department/staff routing based on category rules.
-- Maintain an audit trail and complete status history through linked lifecycle logs.
-- Trigger real-time notifications for customers whenever a complaint status changes.
-- Demonstrate the application of relational schema modeling and algorithms in a pure Java in-memory architecture.
-
+Centralize complaint record management by storing customer complaints in individual text files for easy access and organization.
+Implement efficient searching, sorting, and filtering techniques using the Z-Algorithm, Merge Sort, and Binary Search.
+Enable quick retrieval of complaint details, including complaint ID, status, address, and other available information.
+Apply network flow algorithms, particularly Edmonds-Karp, to demonstrate maximum-flow-based staff assignment.
+Implement a greedy approximation algorithm to improve staff coverage of complaints.
+Apply randomized sampling techniques to select complaint records for auditing and demonstrate the practical use of advanced Data Structures and Algorithms in Java.
 ---
 
 ## Algorithms and Data Structures
-
-- **Hash-Based Indexing & Lookups:** $O(1)$ constant-time primary key retrieval for Customer IDs and Complaint IDs.
-- **Custom In-Memory Tables:** Dynamic array-backed collections representing core relational entities (`Customer`, `Complaint`, `Category`, `Staff`, `StatusLog`).
-- **Relational Foreign Key Mapping:** In-memory pointers establishing relationships between complaints, customers, and assigned support staff.
-- **Linear & Multi-Attribute Search:** Query filtering across dates, priority levels, categories, and resolution statuses.
-- **Workflow State Management:** Finite-state transitions handling complaint lifecycles from submission to closure.
+- Z-Algorithm (String Matching): Efficiently searches for a given text pattern within complaint descriptions to identify matching complaint files.
+- File Handling and ArrayList: Stores complaint records in individual text files and uses dynamic collections to process complaint data.
+- Merge Sort: Sorts complaint records according to priority, such as High, Medium, and Low.
+- Binary Search: Searches for a specific complaint using its ID in a correctly sorted collection of complaint IDs.
+- Edmonds-Karp Algorithm (Maximum Flow): Calculates the maximum possible flow in a network to demonstrate staff assignment to complaints.
+- Greedy Approximation Algorithm: Selects staff members to cover complaints using an approximation-based approach.
+- Randomized Sampling: Randomly selects complaint records for auditing and demonstrates randomized algorithm techniques.
+- HashMap and Set: Support data mapping, tracking, and coverage calculations in the advanced algorithm modules.
 
 ---
 
 ## Current Phase Status
 
-### Review 2 – Core Table Operations & Lifecycle Workflow
-- **Status:** Implemented and tested.
-- Complete implementation of in-memory data tables for Customers, Complaints, Categories, Staff, and Status Logs.
-- Primary-key lookup and relational query linking verified.
-- Status progression engine tested (*Under Review* → *In Progress* → *Resolved* → *Closed*).
-- Customer notification triggers and chronological remark logging fully operational.
-
+Review 2 – Complaint Search, Sorting & Advanced Algorithm Implementation
+- Status: Core complaint management and algorithm modules implemented.
+- Complaint records stored and retrieved using text files in the data/corpus directory.
+- Z-Algorithm implemented for efficient complaint description searching.
+- Merge Sort and Binary Search implemented for complaint priority sorting and complaint ID retrieval.
+- Edmonds-Karp maximum-flow algorithm implemented for network-based staff assignment.
+- Greedy approximation algorithm implemented for staff coverage.
+- Randomized sampling implemented for complaint auditing.
+- Search results saved in results/search_results.txt for future reference.
 ---
 
 ## Project Flow
 
-```text
-       Customer Input / Console
-                  |
-                  v
-         ComplaintController
-                  |
-                  v
-    Validation & Category Routing
-                  |
-        +---------+---------+
-        |                   |
-        v                   v
-  Customer Table     Complaint Table
- (customer_id PK)   (complaint_id PK)
-        |                   |
-        +---------+---------+
-                  |
-                  v
-       Staff Assignment Engine
-                  |
-                  v
-       StatusLog Audit Records
-                  |
-                  v
-    Customer Status Notifications
+ Customer Input / Console
+                     |
+                     v
+              ComplaintTracker.java
+                     |
+                     v
+              Display Menu Options
+                     |
+                     v
+             Read Complaint Files
+                     |
+                     v
+          Search / Filter Complaints
+                     |
+                     v
+              Z-Algorithm Search
+                     |
+                     v
+          +----------+----------+
+          |                     |
+          v                     v
+      Merge Sort           Binary Search
+   (Priority Sorting)    (Complaint ID Search)
+          |                     |
+          +----------+----------+
+                     |
+                     v
+           Edmonds-Karp Algorithm
+             (Staff Assignment)
+                     |
+                     v
+          Greedy Approximation Algorithm
+              (Staff Coverage)
+                     |
+                     v
+             Randomized Sampling
+             (Complaint Auditing)
+                     |
+                     v
+              Display Results
+                     |
+                     v
+       Save Results to search_results.txt
